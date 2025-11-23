@@ -1,0 +1,21 @@
+﻿entreprise_id,entreprise_nom,sector,city,region,country,contact_personne,email,phone,is_partner,date_creation
+ENT0001,TechNova Systems,IT,Casablanca,Maroc,Morocco,Amina El Amrani,contact@technovasystems.ma,+212 520 491330,1,2025-11-21
+ENT0002,IndusMar,Industrie,Tanger,Maroc,Morocco,Ali Naciri,contact@indusmar.ma,+212 521 703207,1,2025-11-21
+ENT0003,ElectroMaghreb,Électronique,Rabat,Maroc,Morocco,Ahmed Tazi,contact@electromaghreb.ma,+212 522 270757,1,2025-11-21
+ENT0004,TelecomPlus,Télécommunications,Marrakech,Maroc,Morocco,Nour Benali,contact@telecomplus.ma,+212 523 253235,1,2025-11-21
+ENT0005,CyberShield MA,Cybersécurité,Casablanca,Maroc,Morocco,Khadija Sabri,contact@cybershieldma.ma,+212 524 826959,1,2025-11-21
+ENT0006,EnergyGreen,Énergie,Fès,Maroc,Morocco,Mohamed Benjelloun,contact@energygreen.ma,+212 525 271241,1,2025-11-21
+ENT0007,DataSoft Morocco,IT,Casablanca,Maroc,Morocco,Ahmed Tazi,contact@datasoftmorocco.ma,+212 526 478707,1,2025-11-21
+ENT0008,AutoTech Industries,Industrie,Tanger,Maroc,Morocco,Omar Chakir,contact@autotechindustries.ma,+212 527 473276,1,2025-11-21
+ENT0009,SmartGrid Solutions,Énergie,Rabat,Maroc,Morocco,Ahmed Tazi,contact@smartgridsolutions.ma,+212 528 405831,1,2025-11-21
+ENT0010,SecureNet Africa,Cybersécurité,Casablanca,Maroc,Morocco,Ali Chakir,contact@securenetafrica.ma,+212 529 180558,1,2025-11-21
+ENT0011,WirelessCom,Télécommunications,Agadir,Maroc,Morocco,Ali Alami,contact@wirelesscom.ma,+212 530 903673,1,2025-11-21
+ENT0012,MicroElectronics Lab,Électronique,Fès,Maroc,Morocco,Hassan Idrissi,contact@microelectronicslab.ma,+212 531 901834,1,2025-11-21
+ENT0013,Digital Solutions Hub,IT,Rabat,Maroc,Morocco,Fatima Mansouri,contact@digitalsolutionshub.ma,+212 532 889188,1,2025-11-21
+ENT0014,Manufacturing Excellence,Industrie,Kenitra,Maroc,Morocco,Mohamed Rami,contact@manufacturingexcellence.ma,+212 533 438277,1,2025-11-21
+ENT0015,Renewable Energy Co,Énergie,Marrakech,Maroc,Morocco,Yasmine Benjelloun,contact@renewableenergyco.ma,+212 534 966985,1,2025-11-21
+ENT0016,Innovation Lab Maroc,IT,Casablanca,Maroc,Morocco,Yasmine Chakir,contact@innovationlabmaroc.ma,+212 535 938732,1,2025-11-21
+ENT0017,Tech Industries Group,Industrie,Tanger,Maroc,Morocco,Youssef Tazi,contact@techindustriesgroup.ma,+212 536 818739,1,2025-11-21
+ENT0018,Solar Power Solutions,Énergie,Ouarzazate,Maroc,Morocco,Amina Naciri,contact@solarpowersolutions.ma,+212 537 480132,1,2025-11-21
+ENT0019,Network Systems Pro,Télécommunications,Rabat,Maroc,Morocco,Fatima Rami,contact@networksystemspro.ma,+212 538 708222,1,2025-11-21
+ENT0020,CyberDefense Morocco,Cybersécurité,Casablanca,Maroc,Morocco,Khadija Idrissi,contact@cyberdefensemorocco.ma,+212 539 113524,1,2025-11-21

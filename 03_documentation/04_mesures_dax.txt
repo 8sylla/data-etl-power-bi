@@ -1,0 +1,282 @@
+// ========================================
+// MESURES GLOBALES
+// ========================================
+
+[Total Étudiants] = DISTINCTCOUNT(dim_etudiant[student_id])
+
+[Total Enseignants] = DISTINCTCOUNT(dim_enseignant[enseignant_id])
+
+[Total Entreprises] = DISTINCTCOUNT(dim_entreprise[entreprise_id])
+
+[Année Académique Active] = 
+CALCULATE(
+    MAX(dim_semestre[annee_academique]),
+    dim_semestre[is_active] = 1
+)
+
+// ========================================
+// MESURES ABSENCES
+// ========================================
+
+[Total Absences] = COUNTROWS(fait_absences)
+
+[Total Heures Manquées] = SUM(fait_absences[heures_manquees])
+
+[Absences Justifiées] = 
+CALCULATE(
+    COUNTROWS(fait_absences),
+    fait_absences[is_justifiee] = 1
+)
+
+[Taux Absence] = 
+DIVIDE(
+    [Total Absences],
+    [Total Étudiants] * 100,
+    0
+)
+
+[Taux Justification] = 
+DIVIDE(
+    [Absences Justifiées],
+    [Total Absences],
+    0
+)
+
+[Moyenne Heures Manquées par Étudiant] = 
+DIVIDE(
+    [Total Heures Manquées],
+    [Total Étudiants],
+    0
+)
+
+// Mesure pour Top 15 Absents
+[Rang Absence] = 
+RANKX(
+    ALL(dim_etudiant[full_name]),
+    [Total Absences],
+    ,
+    DESC,
+    DENSE
+)
+
+// ========================================
+// MESURES NOTES
+// ========================================
+
+[Total Notes] = COUNTROWS(fait_notes)
+
+[Moyenne Générale] = AVERAGE(fait_notes[note])
+
+[Moyenne Pondérée] = 
+DIVIDE(
+    SUM(fait_notes[note_ponderee]),
+    SUM(fait_notes[coefficient]),
+    0
+)
+
+[Note Maximale] = MAX(fait_notes[note])
+
+[Note Minimale] = MIN(fait_notes[note])
+
+[Étudiants >=10] = 
+CALCULATE(
+    DISTINCTCOUNT(fait_notes[student_id]),
+    fait_notes[note] >= 10
+)
+
+[Taux Réussite] = 
+DIVIDE(
+    [Étudiants >=10],
+    DISTINCTCOUNT(fait_notes[student_id]),
+    0
+)
+
+// Distribution des notes
+[Notes 0-5] = 
+CALCULATE(
+    COUNTROWS(fait_notes),
+    fait_notes[note] >= 0,
+    fait_notes[note] < 5
+)
+
+[Notes 5-10] = 
+CALCULATE(
+    COUNTROWS(fait_notes),
+    fait_notes[note] >= 5,
+    fait_notes[note] < 10
+)
+
+[Notes 10-15] = 
+CALCULATE(
+    COUNTROWS(fait_notes),
+    fait_notes[note] >= 10,
+    fait_notes[note] < 15
+)
+
+[Notes 15-20] = 
+CALCULATE(
+    COUNTROWS(fait_notes),
+    fait_notes[note] >= 15,
+    fait_notes[note] <= 20
+)
+
+// ========================================
+// MESURES STAGES
+// ========================================
+
+[Total Stages] = COUNTROWS(fait_stages)
+
+[Stages PFE] = 
+CALCULATE(
+    COUNTROWS(fait_stages),
+    fait_stages[type_stage] = "PFE"
+)
+
+[Stages PFA] = 
+CALCULATE(
+    COUNTROWS(fait_stages),
+    fait_stages[type_stage] = "PFA"
+)
+
+[Stages PP] = 
+CALCULATE(
+    COUNTROWS(fait_stages),
+    fait_stages[type_stage] = "PP"
+)
+
+[Taux Encadrement Entreprise] = 
+DIVIDE(
+    [Total Stages],
+    [Total Entreprises],
+    0
+)
+
+[Durée Moyenne Stage (jours)] = 
+AVERAGEX(
+    fait_stages,
+    DATEDIFF(fait_stages[date_debut], fait_stages[date_fin], DAY)
+)
+
+// ========================================
+// MESURES ENSEIGNEMENT
+// ========================================
+
+[Total Volume Horaire] = SUM(fait_heures_enseignement[volume_horaire])
+
+[Volume Horaire CM] = 
+CALCULATE(
+    SUM(fait_heures_enseignement[volume_horaire]),
+    fait_heures_enseignement[type_cours] = "CM"
+)
+
+[Volume Horaire TD] = 
+CALCULATE(
+    SUM(fait_heures_enseignement[volume_horaire]),
+    fait_heures_enseignement[type_cours] = "TD"
+)
+
+[Volume Horaire TP] = 
+CALCULATE(
+    SUM(fait_heures_enseignement[volume_horaire]),
+    fait_heures_enseignement[type_cours] = "TP"
+)
+
+[Heures Permanents] = 
+CALCULATE(
+    SUM(fait_heures_enseignement[volume_horaire]),
+    dim_enseignant[status] = "Permanent"
+)
+
+[Heures Vacataires] = 
+CALCULATE(
+    SUM(fait_heures_enseignement[volume_horaire]),
+    dim_enseignant[status] = "Vacataire"
+)
+
+[Heures Docteurs] = 
+CALCULATE(
+    SUM(fait_heures_enseignement[volume_horaire]),
+    dim_enseignant[qualification] = "Docteur"
+)
+
+[Heures Doctorants] = 
+CALCULATE(
+    SUM(fait_heures_enseignement[volume_horaire]),
+    dim_enseignant[qualification] = "Doctorant"
+)
+
+[Moyenne Heures par Enseignant] = 
+DIVIDE(
+    [Total Volume Horaire],
+    [Total Enseignants],
+    0
+)
+
+// ========================================
+// MESURES DE COMPARAISON TEMPORELLE
+// ========================================
+
+[Absences Année Précédente] = 
+CALCULATE(
+    [Total Absences],
+    DATEADD(fait_absences[date_absence], -1, YEAR)
+)
+
+[Évolution Absences] = 
+DIVIDE(
+    [Total Absences] - [Absences Année Précédente],
+    [Absences Année Précédente],
+    0
+)
+
+[Moyenne Année Précédente] = 
+CALCULATE(
+    [Moyenne Générale],
+    DATEADD(fait_notes[date_examen], -1, YEAR)
+)
+
+[Évolution Moyenne] = [Moyenne Générale] - [Moyenne Année Précédente]
+
+**Dans dim_etudiant :**
+```dax
+Âge = 
+DATEDIFF(
+    dim_etudiant[date_naissance],
+    TODAY(),
+    YEAR
+)
+
+Cycle Complet = 
+dim_etudiant[cycle] & " - " & dim_etudiant[level]
+```
+
+**Dans dim_semestre :**
+```dax
+Année-Semestre = 
+dim_semestre[annee_academique] & " - " & dim_semestre[semestre_nom]
+```
+
+**Dans fait_absences :**
+```dax
+Trimestre = 
+SWITCH(
+    TRUE(),
+    fait_absences[mois] IN {9,10,11}, "T1",
+    fait_absences[mois] IN {12,1,2}, "T2",
+    fait_absences[mois] IN {3,4,5}, "T3",
+    "T4"
+)
+```
+
+**Dans fait_notes :**
+```dax
+Mention = 
+SWITCH(
+    TRUE(),
+    fait_notes[note] < 10, "Ajourné",
+    fait_notes[note] < 12, "Passable",
+    fait_notes[note] < 14, "Assez Bien",
+    fait_notes[note] < 16, "Bien",
+    "Très Bien"
+)
+```

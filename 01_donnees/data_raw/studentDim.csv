@@ -1,0 +1,1681 @@
+StudentID;FullName;Gender;DateOfBirth;Level;Cycle;EnrollmentYear;Status;FiliereID;GroupID
+STU00143;Rida Essalhi;M         ;0028-03-28;AP1;PREPA;2024;Actif;7;3
+STU00001;Omar Jaidi;M         ;0013-10-27;AP1;PREPA;2024;Actif;7;1
+STU00144;Rachid Tabbakh;M         ;0010-12-27;AP1;PREPA;2024;Actif;7;4
+STU00002;Abdelilah Ibrahimi;M         ;0027-07-30;AP1;PREPA;2024;Actif;7;2
+STU00145;Sara Naciri;F         ;0018-10-27;AP1;PREPA;2024;Actif;7;5
+STU00003;Ghali Erraji;M         ;0006-06-29;AP1;PREPA;2024;Actif;7;3
+STU00146;Dounia Abdelmajid;F         ;0016-11-26;AP1;PREPA;2024;Actif;7;6
+STU00004;Yassir Oudghiri;M         ;0026-02-27;AP1;PREPA;2024;Actif;7;4
+STU00147;Widad Mabrouki;F         ;0014-12-27;AP1;PREPA;2024;Actif;7;7
+STU00005;Aziz Marrakchi;M         ;0027-05-29;AP1;PREPA;2024;Actif;7;5
+STU00148;Malek Fassi;M         ;0024-05-28;AP1;PREPA;2024;Actif;7;8
+STU00006;Jihane Abdelkarim;F         ;0015-03-29;AP1;PREPA;2024;Actif;7;6
+STU00149;Anir Tetuani;M         ;0009-04-28;AP1;PREPA;2024;Actif;7;9
+STU00007;Driss Zaari;M         ;0028-08-26;AP1;PREPA;2024;Actif;7;7
+STU00150;Chakib Alaoui;M         ;0012-09-26;AP1;PREPA;2024;Actif;7;10
+STU00008;Tissila Azergui;F         ;0012-08-26;AP1;PREPA;2024;Actif;7;8
+STU00151;Kamal Ben Tahar;M         ;0010-09-27;AP1;PREPA;2024;Actif;7;1
+STU00009;Halima El Alami;F         ;0009-12-27;AP1;PREPA;2024;Actif;7;9
+STU00152;Ilham El Kadiri;F         ;0013-03-28;AP1;PREPA;2024;Actif;7;2
+STU00010;Meryem Mazigh;F         ;0015-03-29;AP1;PREPA;2024;Actif;7;10
+STU00153;Majda Senhaji;F         ;0011-11-27;AP1;PREPA;2024;Actif;7;3
+STU00011;Abderrahmane Abderrahmane;M         ;0010-02-27;AP1;PREPA;2024;Actif;7;1
+STU00154;Faouzi Znagui;M         ;0015-08-27;AP1;PREPA;2024;Actif;7;4
+STU00012;Naima Zahraoui;F         ;0032-10-26;AP1;PREPA;2024;Actif;7;2
+STU00155;Ezzedine Benjelloun;M         ;0024-10-26;AP1;PREPA;2024;Actif;7;5
+STU00013;Aziza Ait Moulay;F         ;0009-05-28;AP1;PREPA;2024;Actif;7;3
+STU00156;Aicha Elmalki;F         ;0008-09-26;AP1;PREPA;2024;Actif;7;6
+STU00014;Rafik Agadiri;M         ;0008-10-26;AP1;PREPA;2024;Actif;7;4
+STU00157;Khalid Chafik;M         ;0033-10-27;AP1;PREPA;2024;Actif;7;7
+STU00015;Tariq Zouiten;M         ;0020-10-26;AP1;PREPA;2024;Actif;7;5
+STU00158;Brahim Tahri;M         ;0017-06-28;AP1;PREPA;2024;Actif;7;8
+STU00016;Aya Tanjaoui;F         ;0012-11-26;AP1;PREPA;2024;Actif;7;6
+STU00159;Houria Tanjaoui;F         ;0022-07-30;AP1;PREPA;2024;Actif;7;9
+STU00017;Majda Benslimane;F         ;0009-04-28;AP1;PREPA;2024;Actif;7;7
+STU00160;Aisha Amrani;F         ;0010-01-27;AP1;PREPA;2024;Actif;7;10
+STU00018;Wissam Guedira;M         ;0011-09-27;AP1;PREPA;2024;Actif;7;8
+STU00161;Dihya Sabbagh;F         ;0029-01-26;AP1;PREPA;2024;Actif;7;1
+STU00019;Tayri Haouzi;F         ;0029-04-28;AP1;PREPA;2024;Actif;7;9
+STU00162;Fayçal Ait Said;M         ;0023-05-29;AP1;PREPA;2024;Actif;7;2
+STU00020;Yacine Atiki;M         ;0013-06-28;AP1;PREPA;2024;Actif;7;10
+STU00163;Fadwa Zaari;F         ;0031-02-27;AP1;PREPA;2024;Actif;7;3
+STU00021;Amazigh Lahlou;M         ;0008-10-26;AP1;PREPA;2024;Actif;7;1
+STU00164;Loubna Abdellah;F         ;0025-05-28;AP1;PREPA;2024;Actif;7;4
+STU00022;Brahim Elmalki;M         ;0012-11-26;AP1;PREPA;2024;Actif;7;2
+STU00165;Tamurt Sahraoui;F         ;0014-07-30;AP1;PREPA;2024;Actif;7;5
+STU00023;Aicha Tabbakh;F         ;0011-01-27;AP1;PREPA;2024;Actif;7;3
+STU00166;Nisrine Mabrouki;F         ;0025-01-26;AP1;PREPA;2024;Actif;7;6
+STU00024;Rahma Riffi;F         ;0024-05-28;AP1;PREPA;2024;Actif;7;4
+STU00167;Tissila Alaoui;F         ;0034-01-27;AP1;PREPA;2024;Actif;7;7
+STU00025;Rayhana Zoulikha;F         ;0024-12-26;AP1;PREPA;2024;Actif;7;5
+STU00168;Sara Boujemaa;F         ;0017-09-27;AP1;PREPA;2024;Actif;7;8
+STU00026;Dihya Meknassi;F         ;0022-08-27;AP1;PREPA;2024;Actif;7;6
+STU00169;Tissila Azergui;F         ;0029-03-28;AP1;PREPA;2024;Actif;7;9
+STU00027;Samira Mekouar;F         ;0033-06-28;AP1;PREPA;2024;Actif;7;7
+STU00170;Amal El Amrani;F         ;0013-02-26;AP1;PREPA;2024;Actif;7;10
+STU00028;Abdessamad Makkaoui;M         ;0031-08-27;AP1;PREPA;2024;Actif;7;8
+STU00171;Nabil Ennibi;M         ;0021-12-27;AP1;PREPA;2024;Actif;7;1
+STU00029;Chadia Filali;F         ;0018-12-27;AP1;PREPA;2024;Actif;7;9
+STU00172;Zakariya Boucetta;M         ;0029-04-28;AP1;PREPA;2024;Actif;7;2
+STU00030;Rania Zayani;F         ;0034-02-27;AP1;PREPA;2024;Actif;7;10
+STU00173;Jamila Tijani;F         ;0008-06-28;AP1;PREPA;2024;Actif;7;3
+STU00031;Yacine Ennibi;M         ;0027-07-30;AP1;PREPA;2024;Actif;7;1
+STU00174;Jihane Rahmouni;F         ;0014-05-29;AP1;PREPA;2024;Actif;7;4
+STU00032;Soundous Tabbakh;F         ;0009-11-27;AP1;PREPA;2024;Actif;7;2
+STU00175;Houria Zouheir;F         ;0021-11-27;AP1;PREPA;2024;Actif;7;5
+STU00033;Ikram Ait Ali;F         ;0007-01-27;AP1;PREPA;2024;Actif;7;3
+STU00176;Houda Karim;F         ;0017-02-26;AP1;PREPA;2024;Actif;7;6
+STU00034;Nora Nafie;F         ;0022-08-27;AP1;PREPA;2024;Actif;7;4
+STU00177;Majda Abdelmajid;F         ;0015-10-27;AP1;PREPA;2024;Actif;7;7
+STU00035;Larbi Boukhris;M         ;0023-04-29;AP1;PREPA;2024;Actif;7;5
+STU00178;Laila Ben Abdelkader;F         ;0013-05-28;AP1;PREPA;2024;Actif;7;8
+STU00036;Abdessamad Kabbaj;M         ;0023-08-27;AP1;PREPA;2024;Actif;7;6
+STU00179;Meriem Karim;F         ;0031-02-27;AP1;PREPA;2024;Actif;7;9
+STU00037;Hatim Amzil;M         ;0007-01-27;AP1;PREPA;2024;Actif;7;7
+STU00180;Anas Slaoui;M         ;0022-05-29;AP1;PREPA;2024;Actif;7;10
+STU00038;Badis Zaari;M         ;0013-10-27;AP1;PREPA;2024;Actif;7;8
+STU00181;Nawal Essaidi;F         ;0026-02-27;AP1;PREPA;2024;Actif;7;1
+STU00039;Nabil Zerhouni;M         ;0008-07-29;AP1;PREPA;2024;Actif;7;9
+STU00182;Fadila Ait Moulay;F         ;0013-10-27;AP1;PREPA;2024;Actif;7;2
+STU00040;Malak Chraibi;F         ;0031-02-27;AP1;PREPA;2024;Actif;7;10
+STU00183;Maryam Cherkaoui;F         ;0028-06-28;AP1;PREPA;2024;Actif;7;3
+STU00041;Abdelaziz Zemmouri;M         ;0024-01-27;AP1;PREPA;2024;Actif;7;1
+STU00184;Mounir Berrada;M         ;0023-06-29;AP1;PREPA;2024;Actif;7;4
+STU00042;Hicham Rahmani;M         ;0020-03-28;AP1;PREPA;2024;Actif;7;2
+STU00185;Majda Ben Moussa;F         ;0034-04-29;AP1;PREPA;2024;Actif;7;5
+STU00043;Yahya Mekouar;M         ;0029-05-28;AP1;PREPA;2024;Actif;7;3
+STU00186;Halima Idrissi;F         ;0016-03-28;AP1;PREPA;2024;Actif;7;6
+STU00044;Abdellatif Imghrane;M         ;0027-12-27;AP1;PREPA;2024;Actif;7;4
+STU00187;Mina Abdelali;F         ;0011-11-27;AP1;PREPA;2024;Actif;7;7
+STU00045;Ilham Nadir;F         ;0010-01-27;AP1;PREPA;2024;Actif;7;5
+STU00188;Jamal Boudinar;M         ;0032-07-29;AP1;PREPA;2024;Actif;7;8
+STU00046;Walid Filali;M         ;0006-11-27;AP1;PREPA;2024;Actif;7;6
+STU00189;Saad Boukhari;M         ;0024-07-29;AP1;PREPA;2024;Actif;7;9
+STU00047;Ghali Meknassi;M         ;0008-06-28;AP1;PREPA;2024;Actif;7;7
+STU00190;Abdessamad Ben Slimane;M         ;0016-03-28;AP1;PREPA;2024;Actif;7;10
+STU00048;Hakim Chraibi;M         ;0033-06-28;AP1;PREPA;2024;Actif;7;8
+STU00191;Farid Ben Abdelkader;M         ;0031-02-27;AP1;PREPA;2024;Actif;7;1
+STU00049;Latifa Moussaoui;F         ;0014-09-27;AP1;PREPA;2024;Actif;7;9
+STU00192;Dalila Ezzahiri;F         ;0014-03-29;AP1;PREPA;2024;Actif;7;2
+STU00050;Dounia Sekkat;F         ;0029-08-27;AP1;PREPA;2024;Actif;7;10
+STU00193;Jamila Abdelkader;F         ;0033-10-27;AP1;PREPA;2024;Actif;7;3
+STU00051;Nisrine Tahri;F         ;0032-01-27;AP1;PREPA;2024;Actif;7;1
+STU00194;Siham Zerhouni;F         ;0008-03-28;AP1;PREPA;2024;Actif;7;4
+STU00052;Hiba El Mansouri;F         ;0027-07-30;AP1;PREPA;2024;Actif;7;2
+STU00195;Driss Tangaoui;M         ;0013-04-28;AP1;PREPA;2024;Actif;7;5
+STU00053;Kahina Erraji;F         ;0020-12-26;AP1;PREPA;2024;Actif;7;3
+STU00196;Houria El Bakali;F         ;0013-08-27;AP1;PREPA;2024;Actif;7;6
+STU00054;Taoufik Zakkar;M         ;0010-04-29;AP1;PREPA;2024;Actif;7;4
+STU00197;Adil Sqalli;M         ;0006-08-27;AP1;PREPA;2024;Actif;7;7
+STU00055;Saad Guedira;M         ;0031-11-27;AP1;PREPA;2024;Actif;7;5
+STU00198;Jamila Bouayad;F         ;0022-03-29;AP1;PREPA;2024;Actif;7;8
+STU00056;Farid Ait Moulay;M         ;0023-09-27;AP1;PREPA;2024;Actif;7;6
+STU00199;Nour Oudghiri;F         ;0028-10-26;AP1;PREPA;2024;Actif;7;9
+STU00057;Rahma Erraji;F         ;0014-08-27;AP1;PREPA;2024;Actif;7;7
+STU00200;Majda Abdelmajid;F         ;0027-07-30;AP1;PREPA;2024;Actif;7;10
+STU00058;Nisrine Sqalli;F         ;0032-01-27;AP1;PREPA;2024;Actif;7;8
+STU00201;Hicham Tami;M         ;0025-04-28;AP1;PREPA;2024;Actif;7;1
+STU00059;Mehdi Yassine;M         ;0033-02-26;AP1;PREPA;2024;Actif;7;9
+STU00202;Badr El Kadiri;M         ;0014-02-27;AP1;PREPA;2024;Actif;7;2
+STU00060;Hamza Mabrouki;M         ;0011-09-27;AP1;PREPA;2024;Actif;7;10
+STU00203;Imad Ben Amor;M         ;0007-07-30;AP1;PREPA;2024;Actif;7;3
+STU00061;Nabila Bouizgarne;F         ;0033-09-27;AP1;PREPA;2024;Actif;7;1
+STU00204;Zakaria Ezzahiri;M         ;0033-05-28;AP1;PREPA;2024;Actif;7;4
+STU00062;Zineb Ait Brahim;F         ;0006-12-27;AP1;PREPA;2024;Actif;7;2
+STU00205;Ilham Ben Ahmed;F         ;0029-01-26;AP1;PREPA;2024;Actif;7;5
+STU00063;Safae Tahri;F         ;0016-01-27;AP1;PREPA;2024;Actif;7;3
+STU00206;Majda Rahmouni;F         ;0022-10-27;AP1;PREPA;2024;Actif;7;6
+STU00064;Majda Hadifi;F         ;0028-02-27;AP1;PREPA;2024;Actif;7;4
+STU00207;Ilham El Bakali;F         ;0008-03-28;AP1;PREPA;2024;Actif;7;7
+STU00065;Wafaa Ait Lahcen;F         ;0012-10-26;AP1;PREPA;2024;Actif;7;5
+STU00208;Rachida Amzil;F         ;0015-03-29;AP1;PREPA;2024;Actif;7;8
+STU00066;Ezzedine Ibrahimi;M         ;0008-02-27;AP1;PREPA;2024;Actif;7;6
+STU00209;Hamza Agadiri;M         ;0033-04-28;AP1;PREPA;2024;Actif;7;9
+STU00067;Zineb Naciri;F         ;0022-03-29;AP1;PREPA;2024;Actif;7;7
+STU00210;Driss Bargach;M         ;0024-10-26;AP1;PREPA;2024;Actif;7;10
+STU00068;Karim Mahmoudi;M         ;0033-07-29;AP1;PREPA;2024;Actif;7;8
+STU00211;Driss Mekouar;M         ;0021-08-27;AP1;PREPA;2024;Actif;7;1
+STU00069;Amine Ezzahiri;M         ;0027-07-30;AP1;PREPA;2024;Actif;7;9
+STU00212;Widad Ait Taleb;F         ;0020-03-28;AP1;PREPA;2024;Actif;7;2
+STU00070;Saad Ben Abdelkader;M         ;0014-03-29;AP1;PREPA;2024;Actif;7;10
+STU00213;Samira Bouabid;F         ;0019-11-27;AP1;PREPA;2024;Actif;7;3
+STU00071;Kamal El Bakali;M         ;0027-12-27;AP1;PREPA;2024;Actif;7;1
+STU00214;Tamurt Balafrej;F         ;0033-07-29;AP1;PREPA;2024;Actif;7;4
+STU00072;Safae Rbati;F         ;0029-04-28;AP1;PREPA;2024;Actif;7;2
+STU00215;Jugurtha Zeroual;M         ;0022-05-29;AP1;PREPA;2024;Actif;7;5
+STU00073;Manal Doukkali;F         ;0010-12-27;AP1;PREPA;2024;Actif;7;3
+STU00216;Houria Lahlou;F         ;0008-02-27;AP1;PREPA;2024;Actif;7;6
+STU00074;Kawtar Akdim;F         ;0006-07-30;AP1;PREPA;2024;Actif;7;4
+STU00217;Samira Akdim;F         ;0016-10-26;AP1;PREPA;2024;Actif;7;7
+STU00075;Fatna Zekri;F         ;0008-07-29;AP1;PREPA;2024;Actif;7;5
+STU00218;Elias Rahmouni;M         ;0033-02-26;AP1;PREPA;2024;Actif;7;8
+STU00076;Nasir Doukkali;M         ;0017-08-27;AP1;PREPA;2024;Actif;7;6
+STU00219;Rafik Sekkat;M         ;0020-01-27;AP1;PREPA;2024;Actif;7;9
+STU00077;Farid Tanjaoui;M         ;0011-10-27;AP1;PREPA;2024;Actif;7;7
+STU00220;Anas Nadir;M         ;0025-11-27;AP1;PREPA;2024;Actif;7;10
+STU00078;Kenza Touhami;F         ;0016-05-28;AP1;PREPA;2024;Actif;7;8
+STU00221;Ghizlane Abdelkader;F         ;0012-06-28;AP1;PREPA;2024;Actif;7;1
+STU00079;Said Znagui;M         ;0016-02-27;AP1;PREPA;2024;Actif;7;9
+STU00222;Afaf Ben Youssef;F         ;0020-10-26;AP1;PREPA;2024;Actif;7;2
+STU00080;Abdelilah Doukkali;M         ;0009-07-29;AP1;PREPA;2024;Actif;7;10
+STU00223;Meriem Alaoui;F         ;0026-04-29;AP1;PREPA;2024;Actif;7;3
+STU00081;Imad Amraoui;M         ;0013-03-28;AP1;PREPA;2024;Actif;7;1
+STU00224;Abdelkader Ait Ali;M         ;0023-10-27;AP1;PREPA;2024;Actif;7;4
+STU00082;Rim Bensmail;F         ;0034-04-29;AP1;PREPA;2024;Actif;7;2
+STU00225;Adil Khalfi;M         ;0013-07-29;AP1;PREPA;2024;Actif;7;5
+STU00083;Nora Boukhari;F         ;0033-10-27;AP1;PREPA;2024;Actif;7;3
+STU00226;Jalil Ben Abdelkader;M         ;0033-04-28;AP1;PREPA;2024;Actif;7;6
+STU00084;Hamza Sabbagh;M         ;0032-12-26;AP1;PREPA;2024;Actif;7;4
+STU00085;Amina Alami;F         ;0030-11-27;AP1;PREPA;2024;Actif;7;5
+STU00227;Munir Elmalki;M         ;0022-10-27;AP1;PREPA;2024;Actif;7;7
+STU00086;Mahdi Doukkali;M         ;0029-08-27;AP1;PREPA;2024;Actif;7;6
+STU00228;Hafsa Bouizgarne;F         ;0014-01-27;AP1;PREPA;2024;Actif;7;8
+STU00087;Afaf Daoudi;F         ;0023-12-27;AP1;PREPA;2024;Actif;7;7
+STU00229;Afaf Ben Othman;F         ;0012-12-26;AP1;PREPA;2024;Actif;7;9
+STU00088;Ismail Sqalli;M         ;0011-05-29;AP1;PREPA;2024;Actif;7;8
+STU00230;Amine Amazigh;M         ;0016-12-26;AP1;PREPA;2024;Actif;7;10
+STU00089;Dihya Zoulikha;M         ;0011-02-27;AP1;PREPA;2024;Actif;7;9
+STU00231;Hafida Alami;F         ;0029-10-27;AP1;PREPA;2024;Actif;7;1
+STU00090;Najat Mansouri;F         ;0017-10-27;AP1;PREPA;2024;Actif;7;10
+STU00232;Lalla Essaidi;F         ;0028-03-28;AP1;PREPA;2024;Actif;7;2
+STU00091;Aylal Tangaoui;M         ;0014-04-29;AP1;PREPA;2024;Actif;7;1
+STU00233;Wafaa Abdelkarim;F         ;0022-02-27;AP1;PREPA;2024;Actif;7;3
+STU00092;Aylal Slaoui;M         ;0034-02-27;AP1;PREPA;2024;Actif;7;2
+STU00234;Tanirt Zahraoui;F         ;0019-02-27;AP1;PREPA;2024;Actif;7;4
+STU00093;Fatna Laghzaoui;F         ;0013-08-27;AP1;PREPA;2024;Actif;7;3
+STU00235;Tamurt Ait Lahcen;F         ;0014-05-29;AP1;PREPA;2024;Actif;7;5
+STU00094;Rayan Zeroual;M         ;0011-06-29;AP1;PREPA;2024;Actif;7;4
+STU00236;Laila Sekkat;F         ;0007-12-27;AP1;PREPA;2024;Actif;7;6
+STU00095;Zakiya Zeroual;F         ;0034-04-29;AP1;PREPA;2024;Actif;7;5
+STU00237;Rayhana Boucetta;F         ;0032-05-28;AP1;PREPA;2024;Actif;7;7
+STU00096;Imad Ait Ali;M         ;0010-05-29;AP1;PREPA;2024;Actif;7;6
+STU00238;Tafukt Jennane;F         ;0011-04-29;AP1;PREPA;2024;Actif;7;8
+STU00097;Nour Bouabid;F         ;0012-09-26;AP1;PREPA;2024;Actif;7;7
+STU00239;Nour Ben Moussa;F         ;0025-02-26;AP1;PREPA;2024;Actif;7;9
+STU00098;Tazerwalt Ouzzi;F         ;0013-09-27;AP1;PREPA;2024;Actif;7;8
+STU00240;Fadila Abdelali;F         ;0022-07-30;AP1;PREPA;2024;Actif;7;10
+STU00099;Rafik Ait Moulay;M         ;0016-12-26;AP1;PREPA;2024;Actif;7;9
+STU00241;Aisha Ennibi;F         ;0019-08-27;AP1;PREPA;2024;Actif;7;1
+STU00100;Malika Sbai;F         ;0017-10-27;AP1;PREPA;2024;Actif;7;10
+STU00242;Samir Bouabid;M         ;0016-10-26;AP1;PREPA;2024;Actif;7;2
+STU00101;Joumana Sadiki;F         ;0006-11-27;AP1;PREPA;2024;Actif;7;1
+STU00243;Hayat El Bakali;F         ;0033-11-27;AP1;PREPA;2024;Actif;7;3
+STU00102;Hicham Ait Said;M         ;0015-03-29;AP1;PREPA;2024;Actif;7;2
+STU00244;Tifawt Makkaoui;F         ;0031-05-29;AP1;PREPA;2024;Actif;7;4
+STU00103;Khalid Ezzahiri;M         ;0017-12-27;AP1;PREPA;2024;Actif;7;3
+STU00245;Saida Sabri;F         ;0009-03-28;AP1;PREPA;2024;Actif;7;5
+STU00104;Ikram Hassani;F         ;0010-02-27;AP1;PREPA;2024;Actif;7;4
+STU00246;Larbi Bensmail;M         ;0013-10-27;AP1;PREPA;2024;Actif;7;6
+STU00105;Aziza Ait Lahcen;F         ;0007-10-27;AP1;PREPA;2024;Actif;7;5
+STU00247;Fayçal El Fassi;M         ;0029-04-28;AP1;PREPA;2024;Actif;7;7
+STU00106;Fatima Nejjar;F         ;0028-02-27;AP1;PREPA;2024;Actif;7;6
+STU00248;Fouad Ait Brahim;M         ;0016-05-28;AP1;PREPA;2024;Actif;7;8
+STU00107;Badis Abderrahim;M         ;0027-07-30;AP1;PREPA;2024;Actif;7;7
+STU00249;Hassan Atiki;M         ;0015-06-29;AP1;PREPA;2024;Actif;7;9
+STU00108;Fatna Akdim;F         ;0034-04-29;AP1;PREPA;2024;Actif;7;8
+STU00250;Tiwizi Abderrahim;F         ;0013-08-27;AP1;PREPA;2024;Actif;7;10
+STU00109;Abdelmajid Boukhris;M         ;0016-02-27;AP1;PREPA;2024;Actif;7;9
+STU00251;Amira Benslimane;F         ;0011-08-27;AP1;PREPA;2024;Actif;7;1
+STU00110;Tamurt Rahmouni;F         ;0016-05-28;AP1;PREPA;2024;Actif;7;10
+STU00252;Rachid Hazzam;M         ;0025-12-27;AP1;PREPA;2024;Actif;7;2
+STU00111;Anas Amrani;M         ;0019-04-29;AP1;PREPA;2024;Actif;7;1
+STU00253;Munir Zoulikha;M         ;0013-08-27;AP1;PREPA;2024;Actif;7;3
+STU00112;Jaouad Zerhouni;M         ;0018-10-27;AP1;PREPA;2024;Actif;7;2
+STU00254;Hajar Senhaji;F         ;0015-01-27;AP1;PREPA;2024;Actif;7;4
+STU00113;Tarik Bouskour;M         ;0019-09-27;AP1;PREPA;2024;Actif;7;3
+STU00255;Jalil Bouskour;M         ;0024-04-28;AP1;PREPA;2024;Actif;7;5
+STU00114;Loubna Abdelkader;F         ;0028-01-27;AP1;PREPA;2024;Actif;7;4
+STU00256;Samir Abdelkader;M         ;0024-11-26;AP1;PREPA;2024;Actif;7;6
+STU00115;Rachid Boucetta;M         ;0012-05-28;AP1;PREPA;2024;Actif;7;5
+STU00257;Hajar Erraji;F         ;0015-05-29;AP1;PREPA;2024;Actif;7;7
+STU00116;Noureddine Moussaoui;M         ;0027-04-29;AP1;PREPA;2024;Actif;7;6
+STU00258;Meryem Cherkaoui;F         ;0018-09-27;AP1;PREPA;2024;Actif;7;8
+STU00117;Samira Znagui;F         ;0027-09-27;AP1;PREPA;2024;Actif;7;7
+STU00259;Halima Maarofi;F         ;0024-12-26;AP1;PREPA;2024;Actif;7;9
+STU00118;Jihane Zaari;F         ;0010-09-27;AP1;PREPA;2024;Actif;7;8
+STU00260;Aziza Boutaleb;F         ;0016-05-28;AP1;PREPA;2024;Actif;7;10
+STU00119;Hassan Sahraoui;M         ;0026-01-27;AP1;PREPA;2024;Actif;7;9
+STU00120;Idriss Bennani;M         ;0025-04-28;AP1;PREPA;2024;Actif;7;10
+STU00121;Abdellatif Chafik;M         ;0021-12-27;AP1;PREPA;2024;Actif;7;1
+STU00122;Nisrine Ben Othman;F         ;0029-04-28;AP1;PREPA;2024;Actif;7;2
+STU00123;Chakib Sbai;M         ;0030-07-30;AP1;PREPA;2024;Actif;7;3
+STU00124;Jihane Ait Said;F         ;0023-05-29;AP1;PREPA;2024;Actif;7;4
+STU00125;Yasmine Zaidi;F         ;0033-09-27;AP1;PREPA;2024;Actif;7;5
+STU00126;Idriss Ben Hassan;M         ;0028-01-27;AP1;PREPA;2024;Actif;7;6
+STU00127;Salwa Abdelkader;F         ;0033-03-28;AP1;PREPA;2024;Actif;7;7
+STU00128;Kenza Yacoubi;F         ;0012-01-27;AP1;PREPA;2024;Actif;7;8
+STU00129;Jamila Mesmoudi;F         ;0032-09-26;AP1;PREPA;2024;Actif;7;9
+STU00130;Soundous Slaoui;F         ;0022-02-27;AP1;PREPA;2024;Actif;7;10
+STU00131;Mounir Abdelali;M         ;0028-07-29;AP1;PREPA;2024;Actif;7;1
+STU00132;Manal Haouzi;F         ;0016-11-26;AP1;PREPA;2024;Actif;7;2
+STU00133;Abdelilah Ben Slimane;M         ;0018-09-27;AP1;PREPA;2024;Actif;7;3
+STU00134;Abdelkader Fassi;M         ;0019-07-30;AP1;PREPA;2024;Actif;7;4
+STU00135;Tanirt Sekkat;F         ;0020-01-27;AP1;PREPA;2024;Actif;7;5
+STU00136;Othmane Amrani;M         ;0030-12-27;AP1;PREPA;2024;Actif;7;6
+STU00137;Driss Zouaoui;M         ;0021-12-27;AP1;PREPA;2024;Actif;7;7
+STU00138;Aylal Boukhris;M         ;0033-12-27;AP1;PREPA;2024;Actif;7;8
+STU00139;Sabah Laghzaoui;F         ;0024-05-28;AP1;PREPA;2024;Actif;7;9
+STU00140;Mourad Meknassi;M         ;0019-10-27;AP1;PREPA;2024;Actif;7;10
+STU00141;Salma Ouazzani;F         ;0027-11-27;AP1;PREPA;2024;Actif;7;1
+STU00142;Nawal Ait Brahim;F         ;0011-01-27;AP1;PREPA;2024;Actif;7;2
+STU00261;Rafik Hamdaoui;M         ;0006-10-27;AP1;PREPA;2024;Actif;7;1
+STU00262;Ikram Karim;M         ;0033-01-26;AP1;PREPA;2024;Actif;7;2
+STU00263;Yamina Wakrim;F         ;0025-09-27;AP1;PREPA;2024;Actif;7;3
+STU00264;Jihane Sabbagh;F         ;0025-09-27;AP1;PREPA;2024;Actif;7;4
+STU00265;Joumana Mekouar;F         ;0031-05-29;AP1;PREPA;2024;Actif;7;5
+STU00266;Larbi El Mansouri;M         ;0027-04-29;AP1;PREPA;2024;Actif;7;6
+STU00267;Zakaria Tami;M         ;0008-01-27;AP1;PREPA;2024;Actif;7;7
+STU00268;Nezha Ben Youssef;F         ;0015-07-30;AP1;PREPA;2024;Actif;7;8
+STU00269;Rayhana Bennani;F         ;0012-08-26;AP1;PREPA;2024;Actif;7;9
+STU00270;Yahya Semlali;M         ;0023-02-27;AP1;PREPA;2024;Actif;7;10
+STU00271;Kenza Ait Brahim;F         ;0032-10-26;AP1;PREPA;2024;Actif;7;1
+STU00272;Aicha Boutaleb;F         ;0034-05-29;AP1;PREPA;2024;Actif;7;2
+STU00273;Fatima-Zahra El Kadiri;F         ;0009-01-26;AP1;PREPA;2024;Actif;7;3
+STU00274;Chakib Tetuani;M         ;0030-04-29;AP1;PREPA;2024;Actif;7;4
+STU00275;Meryem Yazidi;F         ;0018-02-27;AP1;PREPA;2024;Actif;7;5
+STU00276;Rida Idrissi;M         ;0023-10-27;AP1;PREPA;2024;Actif;7;6
+STU00277;Idriss Tanjaoui;M         ;0030-04-29;AP1;PREPA;2024;Actif;7;7
+STU00278;Basma Zouiten;F         ;0018-04-29;AP1;PREPA;2024;Actif;7;8
+STU00279;Taoufik Oudghiri;M         ;0007-01-27;AP1;PREPA;2024;Actif;7;9
+STU00280;Fadwa Meknassi;F         ;0009-04-28;AP1;PREPA;2024;Actif;7;10
+STU00281;Majda Cherkaoui;F         ;0020-04-28;AP1;PREPA;2024;Actif;7;1
+STU00282;Abdelilah Berrada;M         ;0015-06-29;AP1;PREPA;2024;Actif;7;2
+STU00283;Karima El Mansouri;F         ;0023-09-27;AP1;PREPA;2024;Actif;7;3
+STU00284;Syphax Abdelmajid;M         ;0027-11-27;AP1;PREPA;2024;Actif;7;4
+STU00285;Btissam Karim;F         ;0011-05-29;AP1;PREPA;2024;Actif;7;5
+STU00286;Hayat El Fassi;F         ;0026-01-27;AP1;PREPA;2024;Actif;7;6
+STU00287;Widad Hassani;F         ;0018-05-29;AP1;PREPA;2024;Actif;7;7
+STU00288;Fouad Abdelkader;M         ;0033-09-27;AP1;PREPA;2024;Actif;7;8
+STU00289;Fadila Bensmail;F         ;0023-11-27;AP1;PREPA;2024;Actif;7;9
+STU00290;Zineb Hamdaoui;F         ;0012-10-26;AP1;PREPA;2024;Actif;7;10
+STU00291;Idriss El Alami;M         ;0013-04-28;AP1;PREPA;2024;Actif;7;1
+STU00292;Mehdi Tami;M         ;0013-11-27;AP1;PREPA;2024;Actif;7;2
+STU00293;Brahim Rbati;M         ;0032-07-29;AP1;PREPA;2024;Actif;7;3
+STU00294;Ghali Slaoui;M         ;0016-09-26;AP1;PREPA;2024;Actif;7;4
+STU00295;Hatim Alami;M         ;0033-10-27;AP1;PREPA;2024;Actif;7;5
+STU00296;Abdelaziz Sekkat;M         ;0031-10-27;AP1;PREPA;2024;Actif;7;6
+STU00297;Ismail Jennane;M         ;0010-06-29;AP1;PREPA;2024;Actif;7;7
+STU00298;Aylal Tijani;M         ;0024-09-26;AP1;PREPA;2024;Actif;7;8
+STU00299;Khadija Ait Omar;F         ;0007-10-27;AP1;PREPA;2024;Actif;7;9
+STU00300;Abdesselam Amrani;M         ;0010-02-27;AP1;PREPA;2024;Actif;8;10
+STU00301;Malek Abdelkarim;M         ;0022-11-26;AP2;PREPA;2023;Actif;8;11
+STU00302;Haitham Boutarbouch;M         ;0025-09-26;AP2;PREPA;2023;Actif;8;12
+STU00303;Abderrahmane Tahri;M         ;0023-04-28;AP2;PREPA;2023;Actif;8;13
+STU00304;Kawtar Tabbakh;F         ;0007-06-28;AP2;PREPA;2023;Actif;8;14
+STU00305;Meryem Lahlou;F         ;0027-12-26;AP2;PREPA;2023;Actif;8;15
+STU00306;Mourad Drissi;M         ;0009-01-25;AP2;PREPA;2023;Actif;8;16
+STU00307;Massin Hassani;M         ;0008-08-25;AP2;PREPA;2023;Actif;8;17
+STU00308;Mounir Labbadi;M         ;0025-04-27;AP2;PREPA;2023;Actif;8;18
+STU00309;Tayri Ezzahiri;F         ;0016-02-26;AP2;PREPA;2023;Actif;8;19
+STU00310;Nora Harraq;F         ;0009-12-26;AP2;PREPA;2023;Actif;8;20
+STU00311;Oussama Yassine;M         ;0030-02-26;AP2;PREPA;2023;Actif;8;11
+STU00312;Fayçal Abdellatif;M         ;0019-09-26;AP2;PREPA;2023;Actif;8;12
+STU00313;Hafida Abdelmajid;F         ;0019-12-26;AP2;PREPA;2023;Actif;8;13
+STU00314;Amazigh Ghazali;M         ;0027-11-26;AP2;PREPA;2023;Actif;8;14
+STU00315;Tiwizi Ben Tahar;F         ;0022-04-28;AP2;PREPA;2023;Actif;8;15
+STU00316;Hamza El Ouardi;M         ;0019-07-29;AP2;PREPA;2023;Actif;8;16
+STU00317;Anouar Jaidi;M         ;0031-11-26;AP2;PREPA;2023;Actif;8;17
+STU00318;Aziz Bennani;M         ;0024-03-27;AP2;PREPA;2023;Actif;8;18
+STU00319;Ilham Ben Ahmed;F         ;0017-12-26;AP2;PREPA;2023;Actif;8;19
+STU00320;Nawal Chakir;F         ;0025-10-26;AP2;PREPA;2023;Actif;8;20
+STU00321;Kahina El Idrissi;F         ;0023-03-28;AP2;PREPA;2023;Actif;8;11
+STU00322;Abdessamad Zemmouri;M         ;0014-01-26;AP2;PREPA;2023;Actif;8;12
+STU00323;Anir Zaidi;M         ;0009-11-26;AP2;PREPA;2023;Actif;8;13
+STU00324;Aziza Tetuani;F         ;0033-12-26;AP2;PREPA;2023;Actif;8;14
+STU00325;Ikram Zemmouri;M         ;0015-05-28;AP2;PREPA;2023;Actif;8;15
+STU00326;Zakaria Haouzi;M         ;0031-05-28;AP2;PREPA;2023;Actif;8;16
+STU00327;Tissila Ziani;F         ;0011-06-28;AP2;PREPA;2023;Actif;8;17
+STU00328;Brahim Zemmouri;M         ;0008-12-25;AP2;PREPA;2023;Actif;8;18
+STU00329;Abdesselam Sabbagh;M         ;0008-06-27;AP2;PREPA;2023;Actif;8;19
+STU00330;Massinissa Amrani;M         ;0017-01-25;AP2;PREPA;2023;Actif;8;20
+STU00331;Dihya Imghrane;M         ;0017-05-27;AP2;PREPA;2023;Actif;8;11
+STU00332;Mehdi Ben Tahar;M         ;0030-08-26;AP2;PREPA;2023;Actif;8;12
+STU00333;Taoufik El Bakali;M         ;0020-10-25;AP2;PREPA;2023;Actif;8;13
+STU00334;Nabila Hassani;F         ;0020-01-26;AP2;PREPA;2023;Actif;8;14
+STU00335;Dounia Mekouar;F         ;0010-02-26;AP2;PREPA;2023;Actif;8;15
+STU00336;Ikram El Omari;F         ;0027-10-26;AP2;PREPA;2023;Actif;8;16
+STU00337;Rania Baghdadi;F         ;0007-10-26;AP2;PREPA;2023;Actif;8;17
+STU00338;Rida Ezzouine;M         ;0006-06-28;AP2;PREPA;2023;Actif;8;18
+STU00339;Tarik Fassi;M         ;0030-08-26;AP2;PREPA;2023;Actif;8;19
+STU00340;Hanane Atiki;F         ;0006-07-29;AP2;PREPA;2023;Actif;8;20
+STU00341;Rayhana Abderrahim;F         ;0010-08-26;AP2;PREPA;2023;Actif;8;11
+STU00342;Sabah Daoudi;F         ;0022-09-26;AP2;PREPA;2023;Actif;8;12
+STU00343;Latifa Hamdaoui;F         ;0008-05-27;AP2;PREPA;2023;Actif;8;13
+STU00344;Khadija Abderrahmane;F         ;0033-07-28;AP2;PREPA;2023;Actif;8;14
+STU00345;Aziza Ghazali;F         ;0019-03-28;AP2;PREPA;2023;Actif;8;15
+STU00346;Hanane El Kadiri;F         ;0006-12-26;AP2;PREPA;2023;Actif;8;16
+STU00347;Lina Yazidi;F         ;0021-03-27;AP2;PREPA;2023;Actif;8;17
+STU00348;Samira Abdellah;F         ;0013-07-28;AP2;PREPA;2023;Actif;8;18
+STU00349;Btissam Lahlou;F         ;0009-02-25;AP2;PREPA;2023;Actif;8;19
+STU00350;Siham Karim;F         ;0013-11-26;AP2;PREPA;2023;Actif;8;20
+STU00351;Yamina Ait Youssef;F         ;0022-07-29;AP2;PREPA;2023;Actif;8;11
+STU00352;Tahar Mahmoudi;M         ;0030-09-26;AP2;PREPA;2023;Actif;8;12
+STU00353;Tazerwalt Guedira;F         ;0033-04-27;AP2;PREPA;2023;Actif;8;13
+STU00354;Nabil El Idrissi;M         ;0014-08-26;AP2;PREPA;2023;Actif;8;14
+STU00355;Rayan Harraq;M         ;0030-08-26;AP2;PREPA;2023;Actif;8;15
+STU00356;Rayan Sbai;M         ;0022-04-28;AP2;PREPA;2023;Actif;8;16
+STU00357;Salwa Zekri;F         ;0021-03-27;AP2;PREPA;2023;Actif;8;17
+STU00358;Ghizlane Akdim;F         ;0020-08-25;AP2;PREPA;2023;Actif;8;18
+STU00359;Malek Abdelkader;M         ;0016-04-27;AP2;PREPA;2023;Actif;8;19
+STU00360;Btissam Rami;F         ;0022-11-26;AP2;PREPA;2023;Actif;8;20
+STU00361;Zakaria Abdessamad;M         ;0008-01-26;AP2;PREPA;2023;Actif;8;11
+STU00362;Dihya Bouskour;M         ;0026-07-29;AP2;PREPA;2023;Actif;8;12
+STU00363;Jaouad Ezzahiri;M         ;0019-02-26;AP2;PREPA;2023;Actif;8;13
+STU00364;Basma Zahraoui;F         ;0008-05-27;AP2;PREPA;2023;Actif;8;14
+STU00365;Aicha Zitouni;F         ;0013-04-27;AP2;PREPA;2023;Actif;8;15
+STU00366;Dalila Boucetta;F         ;0011-02-26;AP2;PREPA;2023;Actif;8;16
+STU00367;Haitham El Idrissi;M         ;0028-11-25;AP2;PREPA;2023;Actif;8;17
+STU00368;Nasir Wazzani;M         ;0007-08-26;AP2;PREPA;2023;Actif;8;18
+STU00369;Abdelkader Abdelali;M         ;0023-01-26;AP2;PREPA;2023;Actif;8;19
+STU00370;Badis Kabbaj;M         ;0018-10-26;AP2;PREPA;2023;Actif;8;20
+STU00371;Yamina Bouhali;F         ;0026-04-28;AP2;PREPA;2023;Actif;8;11
+STU00372;Larbi Wazzani;M         ;0008-11-25;AP2;PREPA;2023;Actif;8;12
+STU00373;Fadila Zaidi;F         ;0019-04-28;AP2;PREPA;2023;Actif;8;13
+STU00374;Rajae Filali;F         ;0026-04-28;AP2;PREPA;2023;Actif;8;14
+STU00375;Jugurtha El Bakali;M         ;0028-03-27;AP2;PREPA;2023;Actif;8;15
+STU00376;Anir Imghrane;M         ;0029-04-27;AP2;PREPA;2023;Actif;8;16
+STU00377;Najat Ezzahiri;F         ;0009-05-27;AP2;PREPA;2023;Actif;8;17
+STU00378;Amal Sbihi;F         ;0032-04-27;AP2;PREPA;2023;Actif;8;18
+STU00379;Malak Ben Moussa;F         ;0029-04-27;AP2;PREPA;2023;Actif;8;19
+STU00380;Najib Balafrej;M         ;0022-12-26;AP2;PREPA;2023;Actif;8;20
+STU00381;Khadija Cherif;F         ;0011-10-26;AP2;PREPA;2023;Actif;8;11
+STU00382;Aksil Ouahbi;M         ;0013-01-25;AP2;PREPA;2023;Actif;8;12
+STU00383;Abdelilah Ben Tahar;M         ;0015-07-29;AP2;PREPA;2023;Actif;8;13
+STU00384;Nasir Sbai;M         ;0033-02-25;AP2;PREPA;2023;Actif;8;14
+STU00385;Rafik Bouhali;M         ;0011-03-28;AP2;PREPA;2023;Actif;8;15
+STU00386;Wafaa Ait Ahmed;F         ;0032-08-25;AP2;PREPA;2023;Actif;8;16
+STU00387;Abdelmajid Abdelali;M         ;0019-06-28;AP2;PREPA;2023;Actif;8;17
+STU00388;Joumana Ennibi;F         ;0020-09-25;AP2;PREPA;2023;Actif;8;18
+STU00389;Salwa Laghzaoui;F         ;0014-01-26;AP2;PREPA;2023;Actif;8;19
+STU00390;Zakaria Zahiri;M         ;0033-01-25;AP2;PREPA;2023;Actif;8;20
+STU00391;Dihya Belkadi;M         ;0021-03-27;AP2;PREPA;2023;Actif;8;11
+STU00392;Soundous Amraoui;F         ;0022-12-26;AP2;PREPA;2023;Actif;8;12
+STU00393;Aya Znagui;F         ;0031-09-26;AP2;PREPA;2023;Actif;8;13
+STU00394;Jamal Chakir;M         ;0022-04-28;AP2;PREPA;2023;Actif;8;14
+STU00395;Afaf El Idrissi;F         ;0034-05-28;AP2;PREPA;2023;Actif;8;15
+STU00396;Noureddine El Ouardi;M         ;0014-08-26;AP2;PREPA;2023;Actif;8;16
+STU00397;Oumaima Ben Othman;F         ;0008-12-25;AP2;PREPA;2023;Actif;8;17
+STU00398;Haitham Ziani;M         ;0019-06-28;AP2;PREPA;2023;Actif;8;18
+STU00399;Rida Boutarbouch;M         ;0013-11-26;AP2;PREPA;2023;Actif;8;19
+STU00400;Naima Kabbaj;F         ;0006-09-26;AP2;PREPA;2023;Actif;8;20
+STU00401;Fadila Drissi;F         ;0017-04-27;AP2;PREPA;2023;Actif;8;11
+STU00402;Abdelilah Sabri;M         ;0032-10-25;AP2;PREPA;2023;Actif;8;12
+STU00403;Majda Ben Salah;F         ;0022-05-28;AP2;PREPA;2023;Actif;8;13
+STU00404;Fadwa Benali;F         ;0006-07-29;AP2;PREPA;2023;Actif;8;14
+STU00405;Dounia Ben Slimane;F         ;0030-02-26;AP2;PREPA;2023;Actif;8;15
+STU00406;Karima Sekkat;F         ;0013-10-26;AP2;PREPA;2023;Actif;8;16
+STU00407;Meriem Naciri;F         ;0019-09-26;AP2;PREPA;2023;Actif;8;17
+STU00408;Malika El Omari;F         ;0026-01-26;AP2;PREPA;2023;Actif;8;18
+STU00409;Larbi Moussaoui;M         ;0014-03-28;AP2;PREPA;2023;Actif;8;19
+STU00410;Soufiane Ghazali;M         ;0025-06-27;AP2;PREPA;2023;Actif;8;20
+STU00411;Manal Zitouni;F         ;0011-12-26;AP2;PREPA;2023;Actif;8;11
+STU00412;Tahar Cherif;M         ;0022-07-29;AP2;PREPA;2023;Actif;8;12
+STU00413;Syphax Bouabid;M         ;0026-06-28;AP2;PREPA;2023;Actif;8;13
+STU00414;Tiwizi Zayani;F         ;0007-05-28;AP2;PREPA;2023;Actif;8;14
+STU00415;Zakiya Chraibi;F         ;0013-11-26;AP2;PREPA;2023;Actif;8;15
+STU00416;Elias Zouheir;M         ;0031-05-28;AP2;PREPA;2023;Actif;8;16
+STU00417;Rahma Berrada;F         ;0023-11-26;AP2;PREPA;2023;Actif;8;17
+STU00418;Malak Tabbakh;F         ;0032-08-25;AP2;PREPA;2023;Actif;8;18
+STU00419;Majda Boudinar;F         ;0012-04-27;AP2;PREPA;2023;Actif;8;19
+STU00420;Amine Elmalki;M         ;0008-01-26;AP2;PREPA;2023;Actif;8;20
+STU00421;Ines Berrada;F         ;0007-09-26;AP2;PREPA;2023;Actif;8;11
+STU00422;Siham Moussaoui;F         ;0032-12-25;AP2;PREPA;2023;Actif;8;12
+STU00423;Rajae Sabri;F         ;0013-04-27;AP2;PREPA;2023;Actif;8;13
+STU00424;Kahina Slaoui;F         ;0033-06-27;AP2;PREPA;2023;Actif;8;14
+STU00425;Soukaina Ben Ahmed;F         ;0019-11-26;AP2;PREPA;2023;Actif;8;15
+STU00426;Rayhana Abdelali;F         ;0016-12-25;AP2;PREPA;2023;Actif;8;16
+STU00427;Munir Boufous;M         ;0018-01-26;AP2;PREPA;2023;Actif;8;17
+STU00428;Fatima-Zahra El Ouardi;F         ;0020-05-27;AP2;PREPA;2023;Actif;8;18
+STU00429;Fayçal Harraq;M         ;0023-08-26;AP2;PREPA;2023;Actif;8;19
+STU00430;Tamurt El Idrissi;F         ;0016-07-28;AP2;PREPA;2023;Actif;8;20
+STU00431;Siham Abdelkarim;F         ;0029-03-27;AP2;PREPA;2023;Actif;8;11
+STU00432;Lina Bouayad;F         ;0018-01-26;AP2;PREPA;2023;Actif;8;12
+STU00433;Amina Guedira;F         ;0025-11-26;AP2;PREPA;2023;Actif;8;13
+STU00434;Widad Saqqat;F         ;0008-06-27;AP2;PREPA;2023;Actif;8;14
+STU00435;Dihya Moussaoui;F         ;0028-05-27;AP2;PREPA;2023;Actif;8;15
+STU00436;Omar Ben Amor;M         ;0028-03-27;AP2;PREPA;2023;Actif;8;16
+STU00437;Nour Ben Moussa;F         ;0013-07-28;AP2;PREPA;2023;Actif;8;17
+STU00438;Dihya Tahiri;F         ;0008-03-27;AP2;PREPA;2023;Actif;8;18
+STU00439;Taoufik Abdellatif;M         ;0017-11-26;AP2;PREPA;2023;Actif;8;19
+STU00440;Sanae Sqalli;F         ;0011-03-28;AP2;PREPA;2023;Actif;8;20
+STU00441;Aicha Akdim;F         ;0015-04-28;AP2;PREPA;2023;Actif;8;11
+STU00442;Ismail Benjelloun;M         ;0012-05-27;AP2;PREPA;2023;Actif;8;12
+STU00443;Rabab Ouazzani;F         ;0010-02-26;AP2;PREPA;2023;Actif;8;13
+STU00444;Yamina Mesmoudi;F         ;0021-05-27;AP2;PREPA;2023;Actif;8;14
+STU00445;Jaouad Bouskour;M         ;0022-05-28;AP2;PREPA;2023;Actif;8;15
+STU00446;Bilal Ben Hassan;M         ;0020-07-28;AP2;PREPA;2023;Actif;8;16
+STU00447;Abdellatif Abdelkader;M         ;0031-07-29;AP2;PREPA;2023;Actif;8;17
+STU00448;Ilham Mazigh;F         ;0009-05-27;AP2;PREPA;2023;Actif;8;18
+STU00449;Ghita Ait Ali;F         ;0029-05-27;AP2;PREPA;2023;Actif;8;19
+STU00450;Badis Mahmoudi;M         ;0009-09-26;AP2;PREPA;2023;Actif;8;20
+STU00451;Abdelilah Maarofi;M         ;0007-01-26;AP2;PREPA;2023;Actif;8;11
+STU00452;Afaf Zitouni;F         ;0020-11-25;AP2;PREPA;2023;Actif;8;12
+STU00453;Jaouad El Ghali;M         ;0015-07-29;AP2;PREPA;2023;Actif;8;13
+STU00454;Mouna Ennibi;F         ;0023-01-26;AP2;PREPA;2023;Actif;8;14
+STU00455;Soundous Khalfi;F         ;0009-03-27;AP2;PREPA;2023;Actif;8;15
+STU00456;Amazigh Tabbakh;M         ;0020-07-28;AP2;PREPA;2023;Actif;8;16
+STU00457;Kaoutar Nadir;F         ;0010-11-26;AP2;PREPA;2023;Actif;8;17
+STU00458;Elias Ben Youssef;M         ;0022-12-26;AP2;PREPA;2023;Actif;8;18
+STU00459;Bilal Nadir;M         ;0015-08-26;AP2;PREPA;2023;Actif;8;19
+STU00460;Ayoub Amzil;M         ;0014-05-28;AP2;PREPA;2023;Actif;8;20
+STU00461;Rabab Amraoui;F         ;0014-07-29;AP2;PREPA;2023;Actif;8;11
+STU00462;Mahdi Zahraoui;M         ;0010-10-26;AP2;PREPA;2023;Actif;8;12
+STU00463;Fadwa Raissouni;F         ;0022-07-29;AP2;PREPA;2023;Actif;8;13
+STU00464;Ghali Zouheir;M         ;0011-08-26;AP2;PREPA;2023;Actif;8;14
+STU00465;Lalla Zekri;F         ;0032-06-27;AP2;PREPA;2023;Actif;8;15
+STU00466;Rachid Berrada;M         ;0031-04-28;AP2;PREPA;2023;Actif;8;16
+STU00467;Hayat Tangaoui;F         ;0020-03-27;AP2;PREPA;2023;Actif;8;17
+STU00468;Munir Makkaoui;M         ;0016-02-26;AP2;PREPA;2023;Actif;8;18
+STU00469;Mina Sahraoui;F         ;0019-04-28;AP2;PREPA;2023;Actif;8;19
+STU00470;Kawtar Kettani;F         ;0008-05-27;AP2;PREPA;2023;Actif;8;20
+STU00471;Fouad Bennani;M         ;0021-01-25;AP2;PREPA;2023;Actif;8;11
+STU00472;Aksil Hassani;M         ;0016-08-25;AP2;PREPA;2023;Actif;8;12
+STU00473;Nezha Mazigh;F         ;0010-12-26;AP2;PREPA;2023;Actif;8;13
+STU00474;Oumaima Zarouali;F         ;0016-07-28;AP2;PREPA;2023;Actif;8;14
+STU00475;Jalil Ben Ahmed;M         ;0020-10-25;AP2;PREPA;2023;Actif;8;15
+STU00476;Abderrahim El Mansouri;M         ;0015-06-28;AP2;PREPA;2023;Actif;8;16
+STU00477;Fadwa Amrani;F         ;0033-09-26;AP2;PREPA;2023;Actif;8;17
+STU00478;Massin Zouaoui;M         ;0017-05-27;AP2;PREPA;2023;Actif;8;18
+STU00479;Driss Ait Ali;M         ;0023-01-26;AP2;PREPA;2023;Actif;8;19
+STU00480;Nadia Ouzzi;F         ;0007-01-26;AP2;PREPA;2023;Actif;8;20
+STU00481;Rida Boutaleb;M         ;0014-01-26;AP2;PREPA;2023;Actif;8;11
+STU00482;Ezzedine Hajjaj;M         ;0007-06-28;AP2;PREPA;2023;Actif;8;12
+STU00483;Nadia Ezzahiri;F         ;0028-04-27;AP2;PREPA;2023;Actif;8;13
+STU00484;Imane Sadiki;F         ;0033-06-27;AP2;PREPA;2023;Actif;8;14
+STU00485;Fayçal Ben Hassan;M         ;0029-10-26;AP2;PREPA;2023;Actif;8;15
+STU00486;Sanae Rahmouni;F         ;0007-11-26;AP2;PREPA;2023;Actif;8;16
+STU00487;Yasmine Zerhouni;F         ;0013-02-25;AP2;PREPA;2023;Actif;8;17
+STU00488;Afaf Bouskour;F         ;0018-07-29;AP2;PREPA;2023;Actif;8;18
+STU00489;Sanae Yacoubi;F         ;0032-10-25;AP2;PREPA;2023;Actif;8;19
+STU00490;Abdelaziz El Mansouri;M         ;0017-12-26;AP2;PREPA;2023;Actif;8;20
+STU00491;Amal Semlali;F         ;0012-08-25;AP2;PREPA;2023;Actif;8;11
+STU00492;Nora Mansouri;F         ;0007-06-28;AP2;PREPA;2023;Actif;8;12
+STU00493;Abdellatif Benabdallah;M         ;0023-01-26;AP2;PREPA;2023;Actif;8;13
+STU00494;Wafaa Hassani;F         ;0011-02-26;AP2;PREPA;2023;Actif;8;14
+STU00495;Fadwa Aknin;F         ;0018-08-26;AP2;PREPA;2023;Actif;8;15
+STU00496;Btissam Bouhali;F         ;0033-02-25;AP2;PREPA;2023;Actif;8;16
+STU00497;Marwa Zekri;F         ;0021-10-26;AP2;PREPA;2023;Actif;8;17
+STU00498;Dihya Azoulay;M         ;0010-04-28;AP2;PREPA;2023;Actif;8;18
+STU00499;Basma Ouzzi;F         ;0034-05-28;AP2;PREPA;2023;Actif;8;19
+STU00500;Hatim Boucetta;M         ;0026-10-26;AP2;PREPA;2023;Actif;8;20
+STU00501;Abdelmajid Chakir;M         ;0022-03-28;AP2;PREPA;2023;Actif;8;11
+STU00502;Tahar Qassimi;M         ;0026-05-28;AP2;PREPA;2023;Actif;8;12
+STU00503;Soraya Benslimane;F         ;0007-09-26;AP2;PREPA;2023;Actif;8;13
+STU00504;Anas Fassi;M         ;0017-01-25;AP2;PREPA;2023;Actif;8;14
+STU00505;Wafaa Zeroual;F         ;0013-05-27;AP2;PREPA;2023;Actif;8;15
+STU00506;Nora Sekkat;F         ;0022-03-28;AP2;PREPA;2023;Actif;8;16
+STU00507;Abdelkader Ben Salah;M         ;0013-02-25;AP2;PREPA;2023;Actif;8;17
+STU00508;Houria Boudinar;F         ;0019-02-26;AP2;PREPA;2023;Actif;8;18
+STU00509;Maryam Abderrahmane;F         ;0017-02-25;AP2;PREPA;2023;Actif;8;19
+STU00510;Joumana Sbai;F         ;0028-05-27;AP2;PREPA;2023;Actif;8;20
+STU00511;Fadwa Bouizgarne;F         ;0013-09-26;AP2;PREPA;2023;Actif;8;11
+STU00512;Amal Boukhris;F         ;0015-09-26;AP2;PREPA;2023;Actif;8;12
+STU00513;Marwa Tangaoui;F         ;0029-05-27;AP2;PREPA;2023;Actif;8;13
+STU00514;Tifawt Boudinar;F         ;0023-11-26;AP2;PREPA;2023;Actif;8;14
+STU00515;Imane Ben Ahmed;F         ;0028-03-27;AP2;PREPA;2023;Actif;8;15
+STU00516;Aicha Znagui;F         ;0030-11-26;AP2;PREPA;2023;Actif;8;16
+STU00517;Soufiane Mansouri;M         ;0028-10-25;AP2;PREPA;2023;Actif;8;17
+STU00518;Anir Abdelkader;M         ;0015-04-28;AP2;PREPA;2023;Actif;8;18
+STU00519;Dounia Casaoui;F         ;0015-02-26;AP2;PREPA;2023;Actif;8;19
+STU00520;Rahma El Abbadi;F         ;0030-03-28;AP2;PREPA;2023;Actif;8;20
+STU00521;Farid Naciri;M         ;0023-04-28;AP2;PREPA;2023;Actif;8;11
+STU00522;Mahdi Oudghiri;M         ;0009-06-27;AP2;PREPA;2023;Actif;8;12
+STU00523;Tanirt Elmalki;F         ;0010-01-26;AP2;PREPA;2023;Actif;8;13
+STU00524;Ahmed Yacoubi;M         ;0019-08-26;AP2;PREPA;2023;Actif;8;14
+STU00525;Mina Yassine;F         ;0030-09-26;AP2;PREPA;2023;Actif;8;15
+STU00526;Tamurt Bouskour;F         ;0008-04-27;AP2;PREPA;2023;Actif;8;16
+STU00527;Oussama Zitouni;M         ;0023-09-26;AP2;PREPA;2023;Actif;8;17
+STU00528;Rayan Bennani;M         ;0007-08-26;AP2;PREPA;2023;Actif;8;18
+STU00529;Zakiya Boulaich;F         ;0029-08-26;AP2;PREPA;2023;Actif;8;19
+STU00530;Nour El Amrani;F         ;0024-10-25;AP2;PREPA;2023;Actif;8;20
+STU00531;Jugurtha Amraoui;M         ;0027-01-26;AP2;PREPA;2023;Actif;8;11
+STU00532;Rahma Boutaleb;F         ;0015-01-26;AP2;PREPA;2023;Actif;8;12
+STU00533;Ismail Azoulay;M         ;0029-08-26;AP2;PREPA;2023;Actif;8;13
+STU00534;Hasna Senhaji;F         ;0012-05-27;AP2;PREPA;2023;Actif;8;14
+STU00535;Abdesselam Bouhali;M         ;0024-10-25;AP2;PREPA;2023;Actif;8;15
+STU00536;Rayan Hazzam;M         ;0019-04-28;AP2;PREPA;2023;Actif;8;16
+STU00537;Oumaima Atiki;F         ;0018-07-29;AP2;PREPA;2023;Actif;8;17
+STU00538;Zakaria Ben Salah;M         ;0017-01-25;AP2;PREPA;2023;Actif;8;18
+STU00539;Ahmed Mesmoudi;M         ;0013-12-26;AP2;PREPA;2023;Actif;8;19
+STU00540;Salwa Chaouani;F         ;0015-11-26;AP2;PREPA;2023;Actif;8;20
+STU00541;Hicham Zakkar;M         ;0028-11-25;AP2;PREPA;2023;Actif;8;11
+STU00542;Karim Baghdadi;M         ;0020-07-28;AP2;PREPA;2023;Actif;8;12
+STU00543;Aya Rahmouni;F         ;0023-04-28;AP2;PREPA;2023;Actif;8;13
+STU00544;Leila Ben Abdelkader;F         ;0016-04-27;AP2;PREPA;2023;Actif;8;14
+STU00545;Fadwa Meknassi;F         ;0010-09-26;AP2;PREPA;2023;Actif;8;15
+STU00546;Wafaa Abdelmajid;F         ;0026-05-28;AP2;PREPA;2023;Actif;8;16
+STU00547;Hafsa Chorfi;F         ;0022-02-26;AP2;PREPA;2023;Actif;8;17
+STU00548;Driss Riffi;M         ;0031-04-28;AP2;PREPA;2023;Actif;8;18
+STU00549;Tahar Abdelkarim;M         ;0029-02-25;AP2;PREPA;2023;Actif;8;19
+STU00550;Latifa Zekri;F         ;0007-07-29;AP2;PREPA;2023;Actif;8;20
+STU00551;Driss Sadiki;M         ;0011-08-26;AP2;PREPA;2023;Actif;8;11
+STU00552;Noura Nejjar;F         ;0010-01-26;AP2;PREPA;2023;Actif;8;12
+STU00553;Abdellatif Zoulikha;M         ;0009-01-25;AP2;PREPA;2023;Actif;8;13
+STU00554;Aicha Rami;F         ;0011-01-26;AP2;PREPA;2023;Actif;8;14
+STU00555;Kawtar Zekri;F         ;0023-06-28;AP2;PREPA;2023;Actif;8;15
+STU00556;Joumana Zaari;F         ;0029-10-26;AP2;PREPA;2023;Actif;8;16
+STU00557;Rida Senhaji;M         ;0029-06-27;AP2;PREPA;2023;Actif;8;17
+STU00558;Ezzedine Kettani;M         ;0019-06-28;AP2;PREPA;2023;Actif;8;18
+STU00559;Majda Filali;F         ;0008-02-26;AP2;PREPA;2023;Actif;8;19
+STU00560;Malek Hassani;M         ;0019-10-26;AP2;PREPA;2023;Actif;8;20
+STU00561;Elias Ben Hassan;M         ;0030-04-28;AP2;PREPA;2023;Actif;8;11
+STU00562;Tiwizi Zouiten;F         ;0034-01-26;AP2;PREPA;2023;Actif;8;12
+STU00563;Tayri El Bakali;F         ;0028-04-27;AP2;PREPA;2023;Actif;8;13
+STU00564;Oussama Ziani;M         ;0011-07-29;AP2;PREPA;2023;Actif;8;14
+STU00565;Rania Ben Moussa;F         ;0014-05-28;AP2;PREPA;2023;Actif;8;15
+STU00566;Chakib Tazi;M         ;0020-10-25;AP2;PREPA;2023;Actif;8;16
+STU00567;Sabah Zouiten;F         ;0013-09-26;AP2;PREPA;2023;Actif;8;17
+STU00568;Tazerwalt Ben Tahar;F         ;0012-10-25;AP2;PREPA;2023;Actif;8;18
+STU00569;Youssef Zahiri;M         ;0020-04-27;AP2;PREPA;2023;Actif;8;19
+STU00570;Nabil Rbati;M         ;0009-07-28;AP2;PREPA;2023;Actif;8;20
+STU00571;Haitham Ezzouine;M         ;0029-04-27;AP2;PREPA;2023;Actif;8;11
+STU00572;Farid Jaidi;M         ;0018-06-28;AP2;PREPA;2023;Actif;8;12
+STU00573;Laila Sekkat;F         ;0030-09-26;AP2;PREPA;2023;Actif;8;13
+STU00574;Abdelilah Boutarbouch;M         ;0013-10-26;AP2;PREPA;2023;Actif;8;14
+STU00575;Aziza Ezzouine;F         ;0033-04-27;AP2;PREPA;2023;Actif;8;15
+STU00576;Manal Cherkaoui;F         ;0027-08-26;AP2;PREPA;2023;Actif;8;16
+STU00577;Salah Boukhris;M         ;0007-10-26;AP2;PREPA;2023;Actif;8;17
+STU00578;Larbi Belkadi;M         ;0023-12-26;AP2;PREPA;2023;Actif;8;18
+STU00579;Yasmine Mazigh;F         ;0028-04-27;AP2;PREPA;2023;Actif;8;19
+STU00580;Zakiya Ouahabi;F         ;0028-11-25;AP2;PREPA;2023;Actif;8;20
+STU00581;Chaimae Ben Slimane;F         ;0018-10-26;AP2;PREPA;2023;Actif;8;11
+STU00582;Chakib Sadiki;M         ;0014-01-26;AP2;PREPA;2023;Actif;8;12
+STU00583;Tarik Derraz;M         ;0031-08-26;AP2;PREPA;2023;Actif;8;13
+STU00584;Zineb Zarouali;F         ;0019-12-26;AP2;PREPA;2023;Actif;8;14
+STU00585;Syphax Sahraoui;M         ;0012-10-25;AP2;PREPA;2023;Actif;8;15
+STU00586;Hasna El Bakali;F         ;0034-01-26;AP2;PREPA;2023;Actif;8;16
+STU00587;Samira Sadiki;F         ;0033-05-27;AP2;PREPA;2023;Actif;8;17
+STU00588;Mehdi Chaouani;M         ;0027-12-26;AP2;PREPA;2023;Actif;8;18
+STU00589;Samir Ait Lahcen;M         ;0030-03-28;AP2;PREPA;2023;Actif;8;19
+STU00590;Marouane Tangaoui;M         ;0015-11-26;AP2;PREPA;2023;Actif;8;20
+STU00591;Yassir Ait Lahcen;M         ;0010-05-28;AP2;PREPA;2023;Actif;8;11
+STU00592;Nisrine Chafik;F         ;0029-03-27;AP2;PREPA;2023;Actif;8;12
+STU00593;Rida Soussi;M         ;0017-02-25;AP2;PREPA;2023;Actif;8;13
+STU00594;Tayri Abdesselam;F         ;0027-02-26;AP2;PREPA;2023;Actif;8;14
+STU00595;Siham Mesmoudi;F         ;0022-11-26;AP2;PREPA;2023;Actif;8;15
+STU00596;Loubna El Fassi;F         ;0022-05-28;AP2;PREPA;2023;Actif;8;16
+STU00597;Rim Tanjaoui;F         ;0019-11-26;AP2;PREPA;2023;Actif;8;17
+STU00598;Brahim Meknassi;M         ;0011-05-28;AP2;PREPA;2023;Actif;8;18
+STU00599;Hicham Zahraoui;M         ;0025-03-27;AP2;PREPA;2023;Actif;8;19
+STU00600;Hanane Ben Tahar;F         ;0016-09-25;AP2;PREPA;2023;Actif;8;20
+STU00601;Massinissa Zerhouni;M         ;0021-09-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00602;Rajae Nafie;F         ;0030-01-25;CI1;INGENIEUR;2022;Actif;1;22
+STU00603;Kawtar Ait Youssef;F         ;0032-05-26;CI1;INGENIEUR;2022;Actif;1;21
+STU00604;Lina Ben Salah;F         ;0024-05-26;CI1;INGENIEUR;2022;Actif;1;22
+STU00605;Sara Sekkat;F         ;0008-04-26;CI1;INGENIEUR;2022;Actif;1;21
+STU00606;Samir Znagui;M         ;0008-04-26;CI1;INGENIEUR;2022;Actif;1;22
+STU00607;Salah Ben Salah;M         ;0014-04-27;CI1;INGENIEUR;2022;Actif;1;21
+STU00608;Abdelkader Ben Slimane;M         ;0012-06-26;CI1;INGENIEUR;2022;Actif;1;22
+STU00609;Tiwizi Bennani;F         ;0027-03-27;CI1;INGENIEUR;2022;Actif;1;21
+STU00610;Houria Boujemaa;F         ;0006-06-27;CI1;INGENIEUR;2022;Actif;1;22
+STU00611;Aisha Fassi;F         ;0030-02-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00612;Sabah Bouskour;F         ;0022-06-27;CI1;INGENIEUR;2022;Actif;1;22
+STU00613;Aicha Ait Said;F         ;0009-07-27;CI1;INGENIEUR;2022;Actif;1;21
+STU00614;Nabil Ait Moulay;M         ;0023-03-27;CI1;INGENIEUR;2022;Actif;1;22
+STU00615;Malak Hajjaj;F         ;0031-10-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00616;Naima Kabbaj;F         ;0020-12-24;CI1;INGENIEUR;2022;Actif;1;22
+STU00617;Ziad Tetuani;M         ;0027-10-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00618;Oussama Yassine;M         ;0008-06-26;CI1;INGENIEUR;2022;Actif;1;22
+STU00619;Tayri Sbihi;F         ;0022-02-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00620;Mahdi El Amrani;M         ;0012-05-26;CI1;INGENIEUR;2022;Actif;1;22
+STU00621;Munir Abdellah;M         ;0032-04-26;CI1;INGENIEUR;2022;Actif;1;21
+STU00622;Amira El Mansouri;F         ;0008-02-25;CI1;INGENIEUR;2022;Actif;1;22
+STU00623;Yassir Boufous;M         ;0022-03-27;CI1;INGENIEUR;2022;Actif;1;21
+STU00624;Amina Sqalli;F         ;0015-04-27;CI1;INGENIEUR;2022;Actif;1;22
+STU00625;Rayan Akdim;M         ;0012-06-26;CI1;INGENIEUR;2022;Actif;1;21
+STU00626;Chakib Drissi;M         ;0008-12-24;CI1;INGENIEUR;2022;Actif;1;22
+STU00627;Aya Zekri;F         ;0024-09-24;CI1;INGENIEUR;2022;Actif;1;21
+STU00628;Joumana Sekkat;F         ;0018-11-25;CI1;INGENIEUR;2022;Actif;1;22
+STU00629;Zakariya Filali;M         ;0022-07-28;CI1;INGENIEUR;2022;Actif;1;21
+STU00630;Yasmine El Fassi;F         ;0013-12-25;CI1;INGENIEUR;2022;Actif;1;22
+STU00631;Aksil Harraq;M         ;0026-03-27;CI1;INGENIEUR;2022;Actif;1;21
+STU00632;Yamina Atiki;F         ;0026-06-27;CI1;INGENIEUR;2022;Actif;1;22
+STU00633;Zakiya Abdellatif;F         ;0014-01-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00634;Afaf Sbihi;F         ;0011-12-25;CI1;INGENIEUR;2022;Actif;1;22
+STU00635;Naima Sbai;F         ;0016-03-26;CI1;INGENIEUR;2022;Actif;1;21
+STU00636;Abdellatif Kettani;M         ;0014-07-28;CI1;INGENIEUR;2022;Actif;1;22
+STU00637;Massinissa Drissi;M         ;0011-04-27;CI1;INGENIEUR;2022;Actif;1;21
+STU00638;Tifawt Cherif;F         ;0008-07-27;CI1;INGENIEUR;2022;Actif;1;22
+STU00639;Zakaria Abdelkader;M         ;0030-11-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00640;Halima Ben Youssef;F         ;0011-07-28;CI1;INGENIEUR;2022;Actif;1;22
+STU00641;Jamila Zaidi;F         ;0023-02-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00642;Halima Benjelloun;F         ;0017-07-27;CI1;INGENIEUR;2022;Actif;1;22
+STU00643;Hatim Ezzouine;M         ;0033-11-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00644;Aisha Bouazza;F         ;0018-12-25;CI1;INGENIEUR;2022;Actif;1;22
+STU00645;Abdelmajid Zarouali;M         ;0024-09-24;CI1;INGENIEUR;2022;Actif;1;21
+STU00646;Yacine Zouiten;M         ;0010-08-25;CI1;INGENIEUR;2022;Actif;1;22
+STU00647;Ghita Chaouani;F         ;0011-01-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00648;Adam Abdellah;M         ;0019-10-25;CI1;INGENIEUR;2022;Actif;1;22
+STU00649;Mina Tahri;F         ;0017-07-27;CI1;INGENIEUR;2022;Actif;1;21
+STU00650;Nisrine Ennibi;F         ;0022-04-27;CI1;INGENIEUR;2022;Actif;1;22
+STU00651;Idriss El Abbadi;M         ;0015-08-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00652;Rida Benabdallah;M         ;0019-03-27;CI1;INGENIEUR;2022;Actif;1;22
+STU00653;Ilham Benabdallah;F         ;0032-12-24;CI1;INGENIEUR;2022;Actif;1;21
+STU00654;Tarik Amzil;M         ;0029-03-26;CI1;INGENIEUR;2022;Actif;1;22
+STU00655;Marouane Akdim;M         ;0018-08-25;CI1;INGENIEUR;2022;Actif;1;21
+STU00656;Hanane Ibrahimi;F         ;0027-05-27;CI1;INGENIEUR;2022;Actif;1;22
+STU00657;Aziza Tahri;F         ;0016-09-24;CI1;INGENIEUR;2022;Actif;1;21
+STU00658;Widad Znagui;F         ;0017-12-25;CI1;INGENIEUR;2022;Actif;1;22
+STU00659;Brahim Casaoui;M         ;0024-03-26;CI1;INGENIEUR;2022;Actif;1;21
+STU00660;Yacine Ouahbi;M         ;0007-02-25;CI1;INGENIEUR;2022;Actif;1;22
+STU00661;Marwa Tangaoui;F         ;0032-01-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00662;Kenza Boufous;F         ;0032-07-27;CI1;INGENIEUR;2022;Actif;2;28
+STU00663;Joumana Boussaidi;F         ;0026-08-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00664;Manal Zayani;F         ;0011-04-27;CI1;INGENIEUR;2022;Actif;2;28
+STU00665;Zhor Sbihi;F         ;0020-07-27;CI1;INGENIEUR;2022;Actif;2;27
+STU00666;Basma Lahlou;F         ;0023-02-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00667;Saida Sabri;F         ;0028-11-24;CI1;INGENIEUR;2022;Actif;2;27
+STU00668;Khalid Ouahbi;M         ;0027-09-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00669;Lina Wazzani;F         ;0008-03-26;CI1;INGENIEUR;2022;Actif;2;27
+STU00670;Salwa Azoulay;F         ;0009-12-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00671;Tariq Mesmoudi;M         ;0022-09-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00672;Haitham Kabbaj;M         ;0020-12-24;CI1;INGENIEUR;2022;Actif;2;28
+STU00673;Anir Benjelloun;M         ;0010-01-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00674;Hafsa El Ouardi;F         ;0032-07-27;CI1;INGENIEUR;2022;Actif;2;28
+STU00675;Anir Imghrane;M         ;0020-11-24;CI1;INGENIEUR;2022;Actif;2;27
+STU00676;Samir Bouizgarne;M         ;0021-11-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00677;Fouad Ennibi;M         ;0021-05-26;CI1;INGENIEUR;2022;Actif;2;27
+STU00678;Malika Boukhris;F         ;0031-06-27;CI1;INGENIEUR;2022;Actif;2;28
+STU00679;Ali Hammadi;M         ;0010-04-27;CI1;INGENIEUR;2022;Actif;2;27
+STU00680;Abdesselam Sahraoui;M         ;0012-02-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00681;Jugurtha Zarouali;M         ;0020-12-24;CI1;INGENIEUR;2022;Actif;2;27
+STU00682;Saad Qassimi;M         ;0011-08-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00683;Aicha Alaoui;F         ;0026-05-27;CI1;INGENIEUR;2022;Actif;2;27
+STU00684;Haitham Essalhi;M         ;0018-12-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00685;Abdelkader Fassi;M         ;0014-09-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00686;Driss El Idrissi;M         ;0012-02-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00687;Tamurt Marrakchi;F         ;0010-01-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00688;Ilham Boukhari;F         ;0027-02-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00689;Chadia Ouazzani;F         ;0019-03-27;CI1;INGENIEUR;2022;Actif;2;27
+STU00690;Anir Hajjaj;M         ;0026-01-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00691;Taoufik Daoudi;M         ;0025-10-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00692;Taoufik Ben Hassan;M         ;0009-11-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00693;Zakaria El Kadiri;M         ;0017-08-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00694;Rachid Ouazzani;M         ;0025-12-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00695;Driss Tahiri;M         ;0011-12-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00696;Hajar Sadiki;F         ;0027-05-27;CI1;INGENIEUR;2022;Actif;2;28
+STU00697;Aziz Ait Brahim;M         ;0016-01-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00698;Zakaria Akdim;M         ;0026-01-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00699;Aylal El Amrani;M         ;0011-01-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00700;Syphax Zarouali;M         ;0027-02-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00701;Chaimae Bensmail;F         ;0020-01-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00702;Nabila Ait Brahim;F         ;0024-07-27;CI1;INGENIEUR;2022;Actif;2;28
+STU00703;Driss Meknassi;M         ;0007-10-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00704;Jihane Sadiki;F         ;0011-10-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00705;Amira Karim;F         ;0024-01-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00706;Driss El Kadiri;M         ;0030-10-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00707;Saida Mekouar;F         ;0030-06-27;CI1;INGENIEUR;2022;Actif;2;27
+STU00708;Saida Slaoui;F         ;0009-12-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00709;Tarik Hassani;M         ;0015-01-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00710;Malak El Ghali;F         ;0034-01-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00711;Faouzi Zahiri;M         ;0012-09-24;CI1;INGENIEUR;2022;Actif;2;27
+STU00712;Marwa Hazzam;F         ;0020-04-26;CI1;INGENIEUR;2022;Actif;2;28
+STU00713;Jaouad Ben Salah;M         ;0032-09-24;CI1;INGENIEUR;2022;Actif;2;27
+STU00714;Karim Zerhouni;M         ;0023-11-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00715;Chadia Sadiki;F         ;0016-08-24;CI1;INGENIEUR;2022;Actif;2;27
+STU00716;Hanane Zitouni;F         ;0033-10-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00717;Abdelilah Mabrouki;M         ;0007-12-25;CI1;INGENIEUR;2022;Actif;2;27
+STU00718;Hayat Ben Moussa;F         ;0034-05-27;CI1;INGENIEUR;2022;Actif;2;28
+STU00719;Farid Ben Othman;M         ;0017-05-26;CI1;INGENIEUR;2022;Actif;2;27
+STU00720;Driss Belkadi;M         ;0021-12-25;CI1;INGENIEUR;2022;Actif;2;28
+STU00721;Driss Qassimi;M         ;0026-10-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00722;Tayri Abdellatif;F         ;0026-07-28;CI1;INGENIEUR;2022;Actif;3;34
+STU00723;Saad Moussaoui;M         ;0015-05-27;CI1;INGENIEUR;2022;Actif;3;33
+STU00724;Kawtar Boujemaa;F         ;0024-11-24;CI1;INGENIEUR;2022;Actif;3;34
+STU00725;Faouzi Hadifi;M         ;0029-07-27;CI1;INGENIEUR;2022;Actif;3;33
+STU00726;Hajar Baghdadi;F         ;0018-05-27;CI1;INGENIEUR;2022;Actif;3;34
+STU00727;Wissam Hamdaoui;M         ;0019-09-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00728;Munir Chaouani;M         ;0032-11-24;CI1;INGENIEUR;2022;Actif;3;34
+STU00729;Tissila Yacoubi;F         ;0011-03-27;CI1;INGENIEUR;2022;Actif;3;33
+STU00730;Zakiya Hammadi;F         ;0031-04-27;CI1;INGENIEUR;2022;Actif;3;34
+STU00731;Hassan El Fassi;M         ;0032-04-26;CI1;INGENIEUR;2022;Actif;3;33
+STU00732;Khadija Ben Ahmed;F         ;0020-08-24;CI1;INGENIEUR;2022;Actif;3;34
+STU00733;Fatima Ghazali;F         ;0028-09-24;CI1;INGENIEUR;2022;Actif;3;33
+STU00734;Oussama Cherkaoui;M         ;0033-08-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00735;Samira Zakkar;F         ;0014-11-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00736;Dihya Baghdadi;M         ;0012-04-26;CI1;INGENIEUR;2022;Actif;3;34
+STU00737;Rida Makkaoui;M         ;0029-10-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00738;Badr Zakkar;M         ;0028-07-27;CI1;INGENIEUR;2022;Actif;3;34
+STU00739;Ahmed Fassi;M         ;0009-01-24;CI1;INGENIEUR;2022;Actif;3;33
+STU00740;Ghali Tetuani;M         ;0028-02-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00741;Aisha El Amrani;F         ;0017-05-26;CI1;INGENIEUR;2022;Actif;3;33
+STU00742;Badr Boufous;M         ;0021-08-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00743;Hakim Tahiri;M         ;0029-07-27;CI1;INGENIEUR;2022;Actif;3;33
+STU00744;Khalid Akdim;M         ;0015-11-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00745;Massinissa Sekkat;M         ;0026-08-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00746;Amine Rahmani;M         ;0007-03-27;CI1;INGENIEUR;2022;Actif;3;34
+STU00747;Fouad Ziani;M         ;0013-05-26;CI1;INGENIEUR;2022;Actif;3;33
+STU00748;Salah Jabbari;M         ;0021-04-26;CI1;INGENIEUR;2022;Actif;3;34
+STU00749;Hamza El Fassi;M         ;0030-08-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00750;Ghali Guedira;M         ;0017-12-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00751;Tifawt Tijani;F         ;0013-08-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00752;Hasna El Ouardi;F         ;0023-09-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00753;Yamina Bouayad;F         ;0033-06-26;CI1;INGENIEUR;2022;Actif;3;33
+STU00754;Rim Nadir;F         ;0023-03-27;CI1;INGENIEUR;2022;Actif;3;34
+STU00755;Anouar Lamrani;M         ;0026-10-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00756;Nabil Boulaich;M         ;0009-12-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00757;Munir Saqqat;M         ;0009-03-26;CI1;INGENIEUR;2022;Actif;3;33
+STU00758;Badis Aknin;M         ;0018-08-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00759;Dihya Touhami;F         ;0012-04-26;CI1;INGENIEUR;2022;Actif;3;33
+STU00760;Soundous Kettani;F         ;0024-06-26;CI1;INGENIEUR;2022;Actif;3;34
+STU00761;Mohamed Doukkali;M         ;0007-09-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00762;Rida Boutaleb;M         ;0026-10-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00763;Houda Chorfi;F         ;0008-12-24;CI1;INGENIEUR;2022;Actif;3;33
+STU00764;Mounir El Ouardi;M         ;0008-10-24;CI1;INGENIEUR;2022;Actif;3;34
+STU00765;Abdessamad Sadiki;M         ;0018-11-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00766;Zakaria Chafik;M         ;0029-12-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00767;Karim Sahraoui;M         ;0019-07-28;CI1;INGENIEUR;2022;Actif;3;33
+STU00768;Idriss Hazzam;M         ;0008-03-26;CI1;INGENIEUR;2022;Actif;3;34
+STU00769;Ilham Jaidi;F         ;0030-04-27;CI1;INGENIEUR;2022;Actif;3;33
+STU00770;Bilal Idrissi;M         ;0011-05-27;CI1;INGENIEUR;2022;Actif;3;34
+STU00771;Ayoub Boussaidi;M         ;0022-11-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00772;Lina Kabbaj;F         ;0029-08-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00773;Nezha Ben Abdelkader;F         ;0016-06-26;CI1;INGENIEUR;2022;Actif;3;33
+STU00774;Soukaina Ouahabi;F         ;0014-07-28;CI1;INGENIEUR;2022;Actif;3;34
+STU00775;Munir Abdelmajid;M         ;0018-02-25;CI1;INGENIEUR;2022;Actif;3;33
+STU00776;Munir Zerhouni;M         ;0017-08-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00777;Jamal Sbai;M         ;0024-07-27;CI1;INGENIEUR;2022;Actif;3;33
+STU00778;Hakim Jaidi;M         ;0007-02-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00779;Mohamed Sahraoui;M         ;0021-06-26;CI1;INGENIEUR;2022;Actif;3;33
+STU00780;Tafukt Ben Slimane;F         ;0033-08-25;CI1;INGENIEUR;2022;Actif;3;34
+STU00781;Adil Yazidi;M         ;0030-05-27;CI1;INGENIEUR;2022;Actif;4;39
+STU00782;Jihane Amzil;F         ;0019-09-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00783;Soukaina Sqalli;F         ;0018-03-27;CI1;INGENIEUR;2022;Actif;4;39
+STU00784;Nasir Bargach;M         ;0011-06-27;CI1;INGENIEUR;2022;Actif;4;40
+STU00785;Samir Berrada;M         ;0008-12-24;CI1;INGENIEUR;2022;Actif;4;39
+STU00786;Imane Sekkat;F         ;0016-10-24;CI1;INGENIEUR;2022;Actif;4;40
+STU00787;Adil Abdelmajid;M         ;0017-06-26;CI1;INGENIEUR;2022;Actif;4;39
+STU00788;Soufiane Zekri;M         ;0029-10-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00789;Jalil Tanjaoui;M         ;0022-03-27;CI1;INGENIEUR;2022;Actif;4;39
+STU00790;Abderrahmane Touhami;M         ;0010-09-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00791;Salah Benjelloun;M         ;0023-09-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00792;Hajar Boufous;F         ;0016-06-26;CI1;INGENIEUR;2022;Actif;4;40
+STU00793;Driss Zemmouri;M         ;0033-12-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00794;Halima Rbati;F         ;0014-02-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00795;Nabila Bennani;F         ;0028-08-24;CI1;INGENIEUR;2022;Actif;4;39
+STU00796;Samira Berrada;F         ;0033-09-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00797;Majda Kabbaj;F         ;0030-01-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00798;Ezzedine El Mansouri;M         ;0011-02-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00799;Latifa Essalhi;F         ;0008-03-26;CI1;INGENIEUR;2022;Actif;4;39
+STU00800;Houria Ben Youssef;F         ;0015-09-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00801;Meryem Akdim;F         ;0028-12-24;CI1;INGENIEUR;2022;Actif;4;39
+STU00802;Tifawt Abdellatif;F         ;0013-10-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00803;Ilyas Ben Hassan;M         ;0010-03-27;CI1;INGENIEUR;2022;Actif;4;39
+STU00804;Khalid Ait Brahim;M         ;0021-01-24;CI1;INGENIEUR;2022;Actif;4;40
+STU00805;Chaimae Ben Abdelkader;F         ;0018-02-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00806;Haitham Ouzzi;M         ;0015-01-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00807;Hamza Ait Ali;M         ;0016-04-26;CI1;INGENIEUR;2022;Actif;4;39
+STU00808;Yassir Atiki;M         ;0008-08-24;CI1;INGENIEUR;2022;Actif;4;40
+STU00809;Aylal Hamdaoui;M         ;0008-02-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00810;Safae Znagui;F         ;0006-08-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00811;Noura Abdellatif;F         ;0030-02-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00812;Tariq Abdessamad;M         ;0031-07-28;CI1;INGENIEUR;2022;Actif;4;40
+STU00813;Bilal Idrissi;M         ;0032-06-26;CI1;INGENIEUR;2022;Actif;4;39
+STU00814;Abdelaziz Marrakchi;M         ;0017-12-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00815;Ezzedine Essaidi;M         ;0032-10-24;CI1;INGENIEUR;2022;Actif;4;39
+STU00816;Ali Filali;M         ;0026-09-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00817;Aicha Ben Moussa;F         ;0033-07-27;CI1;INGENIEUR;2022;Actif;4;39
+STU00818;Meriem Mansouri;F         ;0008-01-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00819;Driss Abderrahim;M         ;0019-05-27;CI1;INGENIEUR;2022;Actif;4;39
+STU00820;Salma Zouiten;F         ;0020-04-26;CI1;INGENIEUR;2022;Actif;4;40
+STU00821;Aylal Fassi;M         ;0014-08-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00822;Jamila Ben Slimane;F         ;0025-06-26;CI1;INGENIEUR;2022;Actif;4;40
+STU00823;Najib Boutaleb;M         ;0020-01-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00824;Zineb El Ghali;F         ;0018-10-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00825;Anouar Casaoui;M         ;0032-04-26;CI1;INGENIEUR;2022;Actif;4;39
+STU00826;Larbi Yazidi;M         ;0032-02-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00827;Massinissa Tahri;M         ;0018-05-27;CI1;INGENIEUR;2022;Actif;4;39
+STU00828;Saida Tahri;F         ;0018-01-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00829;Tafukt Haouzi;F         ;0006-08-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00830;Chadia Meknassi;F         ;0031-06-27;CI1;INGENIEUR;2022;Actif;4;40
+STU00831;Zineb Zahiri;F         ;0023-01-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00832;Soundous Zoulikha;F         ;0011-09-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00833;Farid Zemmouri;M         ;0014-09-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00834;Driss Meknassi;M         ;0034-03-27;CI1;INGENIEUR;2022;Actif;4;40
+STU00835;Kahina Ait Omar;F         ;0013-08-25;CI1;INGENIEUR;2022;Actif;4;39
+STU00836;Aicha Ibrahimi;F         ;0018-05-27;CI1;INGENIEUR;2022;Actif;4;40
+STU00837;Abdelkader Chorfi;M         ;0024-11-24;CI1;INGENIEUR;2022;Actif;4;39
+STU00838;Brahim Ait Lahcen;M         ;0024-01-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00839;Maryam Boukhari;F         ;0008-06-26;CI1;INGENIEUR;2022;Actif;4;39
+STU00840;Hakim Harraq;M         ;0006-09-25;CI1;INGENIEUR;2022;Actif;4;40
+STU00841;Fatima Azoulay;F         ;0013-03-26;CI1;INGENIEUR;2022;Actif;5;45
+STU00842;Aksil Elmalki;M         ;0031-08-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00843;Zineb Tazi;F         ;0024-08-24;CI1;INGENIEUR;2022;Actif;5;45
+STU00844;Faouzi El Omari;M         ;0034-02-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00845;Latifa Kabbaj;F         ;0028-05-26;CI1;INGENIEUR;2022;Actif;5;45
+STU00846;Btissam El Fassi;F         ;0015-11-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00847;Rahma Ait Ali;F         ;0020-05-26;CI1;INGENIEUR;2022;Actif;5;45
+STU00848;Hayat Aknin;F         ;0028-08-24;CI1;INGENIEUR;2022;Actif;5;46
+STU00849;Jihane Baghdadi;F         ;0033-03-26;CI1;INGENIEUR;2022;Actif;5;45
+STU00850;Massinissa Ouzzi;M         ;0029-05-26;CI1;INGENIEUR;2022;Actif;5;46
+STU00851;Najat Ait Said;F         ;0007-05-27;CI1;INGENIEUR;2022;Actif;5;45
+STU00852;Meryem Sbai;F         ;0008-03-26;CI1;INGENIEUR;2022;Actif;5;46
+STU00853;Ikram Aknin;M         ;0014-03-27;CI1;INGENIEUR;2022;Actif;5;45
+STU00854;Munir Ben Amor;M         ;0029-11-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00855;Nabil Mazigh;M         ;0011-11-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00856;Abdelkader Balafrej;M         ;0030-04-27;CI1;INGENIEUR;2022;Actif;5;46
+STU00857;Jamila El Amrani;F         ;0012-10-24;CI1;INGENIEUR;2022;Actif;5;45
+STU00858;Zakariya Chraibi;M         ;0014-11-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00859;Abdelmajid Alami;M         ;0018-06-27;CI1;INGENIEUR;2022;Actif;5;45
+STU00860;Nezha Amrani;F         ;0019-08-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00861;Tayri Ziani;F         ;0019-02-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00862;Marouane Tami;M         ;0027-03-27;CI1;INGENIEUR;2022;Actif;5;46
+STU00863;Ayoub Abdellatif;M         ;0031-07-28;CI1;INGENIEUR;2022;Actif;5;45
+STU00864;Soufiane Tazi;M         ;0014-11-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00865;Samir Hammadi;M         ;0018-08-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00866;Abderrahmane Sqalli;M         ;0009-02-24;CI1;INGENIEUR;2022;Actif;5;46
+STU00867;Chadia Jabbari;F         ;0029-01-24;CI1;INGENIEUR;2022;Actif;5;45
+STU00868;Fayçal Zakkar;M         ;0025-08-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00869;Aya Chakir;F         ;0016-07-27;CI1;INGENIEUR;2022;Actif;5;45
+STU00870;Anas Khalfi;M         ;0024-05-26;CI1;INGENIEUR;2022;Actif;5;46
+STU00871;Houria Amraoui;F         ;0013-10-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00872;Mehdi Lamrani;M         ;0024-03-26;CI1;INGENIEUR;2022;Actif;5;46
+STU00873;Wafaa Chakir;F         ;0006-11-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00874;Samira Boutaleb;F         ;0027-04-27;CI1;INGENIEUR;2022;Actif;5;46
+STU00875;Ines El Mansouri;F         ;0012-06-26;CI1;INGENIEUR;2022;Actif;5;45
+STU00876;Mahdi Bouazza;M         ;0021-07-27;CI1;INGENIEUR;2022;Actif;5;46
+STU00877;Zakaria Tahri;M         ;0021-12-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00878;Houria Doukkali;F         ;0026-07-28;CI1;INGENIEUR;2022;Actif;5;46
+STU00879;Sara Tanjaoui;F         ;0017-12-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00880;Haitham Berrada;M         ;0020-10-24;CI1;INGENIEUR;2022;Actif;5;46
+STU00881;Safae Tetuani;F         ;0024-10-24;CI1;INGENIEUR;2022;Actif;5;45
+STU00882;Abdessamad Mabrouki;M         ;0028-05-26;CI1;INGENIEUR;2022;Actif;5;46
+STU00883;Rachid Balafrej;M         ;0031-11-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00884;Salwa Essaidi;F         ;0023-09-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00885;Syphax Znagui;M         ;0020-02-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00886;Aziza Maarofi;F         ;0016-01-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00887;Rida Drissi;M         ;0022-06-27;CI1;INGENIEUR;2022;Actif;5;45
+STU00888;Bilal Mekouar;M         ;0012-01-25;CI1;INGENIEUR;2022;Actif;5;46
+STU00889;Yassir Zaari;M         ;0010-09-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00890;Badr El Bakali;M         ;0020-04-26;CI1;INGENIEUR;2022;Actif;5;46
+STU00891;Larbi Ben Othman;M         ;0015-03-27;CI1;INGENIEUR;2022;Actif;5;45
+STU00892;Nezha Zaari;F         ;0008-07-27;CI1;INGENIEUR;2022;Actif;5;46
+STU00893;Amal Hamdaoui;F         ;0017-02-24;CI1;INGENIEUR;2022;Actif;5;45
+STU00894;Rabab Abderrahmane;F         ;0031-06-27;CI1;INGENIEUR;2022;Actif;5;46
+STU00895;Karima Bennani;F         ;0010-08-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00896;Khalid Zekri;M         ;0031-07-28;CI1;INGENIEUR;2022;Actif;5;46
+STU00897;Sabah Mazigh;F         ;0014-12-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00898;Hayat Boujemaa;F         ;0026-03-27;CI1;INGENIEUR;2022;Actif;5;46
+STU00899;Nour Ait Omar;F         ;0018-10-25;CI1;INGENIEUR;2022;Actif;5;45
+STU00900;Kamal Hassani;M         ;0029-04-26;CI1;INGENIEUR;2022;Actif;5;46
+STU00901;Nour Hamdaoui;F         ;0028-11-24;CI1;INGENIEUR;2022;Actif;6;51
+STU00902;Mehdi Karim;M         ;0015-01-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00903;Khadija Bouhali;F         ;0015-10-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00904;Lalla Boukhari;F         ;0028-05-26;CI1;INGENIEUR;2022;Actif;6;52
+STU00905;Hakim Ben Hassan;M         ;0029-10-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00906;Yamina Amzil;F         ;0029-10-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00907;Dalila Wazzani;F         ;0012-07-27;CI1;INGENIEUR;2022;Actif;6;51
+STU00908;Dounia Khalfi;F         ;0022-05-27;CI1;INGENIEUR;2022;Actif;6;52
+STU00909;Hafida Rami;F         ;0032-02-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00910;Amine Imghrane;M         ;0023-05-27;CI1;INGENIEUR;2022;Actif;6;52
+STU00911;Rahma Slaoui;F         ;0025-02-24;CI1;INGENIEUR;2022;Actif;6;51
+STU00912;Rayan Ait Moulay;M         ;0032-09-24;CI1;INGENIEUR;2022;Actif;6;52
+STU00913;Farid Hassani;M         ;0008-01-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00914;Marwa Marrakchi;F         ;0017-10-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00915;Nora Hamdaoui;F         ;0010-04-27;CI1;INGENIEUR;2022;Actif;6;51
+STU00916;Nabil Kabbaj;M         ;0026-01-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00917;Maryam Boucetta;F         ;0024-03-26;CI1;INGENIEUR;2022;Actif;6;51
+STU00918;Tazerwalt Ait Ahmed;F         ;0029-10-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00919;Noureddine Alaoui;M         ;0007-12-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00920;Driss Slaoui;M         ;0033-09-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00921;Najib Tetuani;M         ;0013-04-26;CI1;INGENIEUR;2022;Actif;6;51
+STU00922;Hayat Khalfi;F         ;0007-02-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00923;Malek Ben Youssef;M         ;0012-04-26;CI1;INGENIEUR;2022;Actif;6;51
+STU00924;Walid Zayani;M         ;0032-03-26;CI1;INGENIEUR;2022;Actif;6;52
+STU00925;Mouna Derraz;F         ;0015-04-27;CI1;INGENIEUR;2022;Actif;6;51
+STU00926;Tayri Ziani;F         ;0015-01-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00927;Jalil Cherkaoui;M         ;0023-04-27;CI1;INGENIEUR;2022;Actif;6;51
+STU00928;Basma El Idrissi;F         ;0022-06-27;CI1;INGENIEUR;2022;Actif;6;52
+STU00929;Amal Wazzani;F         ;0026-03-27;CI1;INGENIEUR;2022;Actif;6;51
+STU00930;Ghita Bensmail;F         ;0021-07-27;CI1;INGENIEUR;2022;Actif;6;52
+STU00931;Aksil Amazigh;M         ;0017-04-26;CI1;INGENIEUR;2022;Actif;6;51
+STU00932;Safae Zakkar;F         ;0027-05-27;CI1;INGENIEUR;2022;Actif;6;52
+STU00933;Hiba Ben Slimane;F         ;0031-02-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00934;Karim Zaari;M         ;0019-03-27;CI1;INGENIEUR;2022;Actif;6;52
+STU00935;Kaoutar Ben Salah;F         ;0007-05-27;CI1;INGENIEUR;2022;Actif;6;51
+STU00936;Hanane Mesmoudi;F         ;0018-12-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00937;Rachida Sabri;F         ;0029-03-26;CI1;INGENIEUR;2022;Actif;6;51
+STU00938;Aksil Filali;M         ;0014-05-27;CI1;INGENIEUR;2022;Actif;6;52
+STU00939;Ilham Hafidi;F         ;0016-02-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00940;Rafik Zaidi;M         ;0015-08-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00941;Malek Ben Moussa;M         ;0015-05-27;CI1;INGENIEUR;2022;Actif;6;51
+STU00942;Yacine Benabdallah;M         ;0009-04-26;CI1;INGENIEUR;2022;Actif;6;52
+STU00943;Aylal Tetuani;M         ;0034-05-27;CI1;INGENIEUR;2022;Actif;6;51
+STU00944;Hafsa Tami;F         ;0017-11-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00945;Basma Boutaleb;F         ;0034-01-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00946;Malek Chakir;M         ;0025-04-26;CI1;INGENIEUR;2022;Actif;6;52
+STU00947;Malek Ait Moulay;M         ;0010-02-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00948;Rania Boukhris;F         ;0007-12-25;CI1;INGENIEUR;2022;Actif;6;52
+STU00949;Abdelilah Casaoui;M         ;0019-11-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00950;Soraya Akdim;F         ;0012-05-26;CI1;INGENIEUR;2022;Actif;6;52
+STU00951;Mourad Benabdallah;M         ;0012-04-26;CI1;INGENIEUR;2022;Actif;6;51
+STU00952;Hajar Rami;F         ;0020-06-26;CI1;INGENIEUR;2022;Actif;6;52
+STU00953;Rim Mountassir;F         ;0024-08-24;CI1;INGENIEUR;2022;Actif;6;51
+STU00954;Mourad Tami;M         ;0010-07-28;CI1;INGENIEUR;2022;Actif;6;52
+STU00955;Hajar Ghazali;F         ;0019-12-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00956;Tafukt Benali;F         ;0023-06-27;CI1;INGENIEUR;2022;Actif;6;52
+STU00957;Abderrahmane Kabbaj;M         ;0016-06-26;CI1;INGENIEUR;2022;Actif;6;51
+STU00958;Ali Belkadi;M         ;0026-06-27;CI1;INGENIEUR;2022;Actif;6;52
+STU00959;Walid Boufous;M         ;0015-11-25;CI1;INGENIEUR;2022;Actif;6;51
+STU00960;Khalid Tahiri;M         ;0025-02-24;CI1;INGENIEUR;2022;Actif;6;52
+STU00961;Lina Filali;F         ;0015-06-26;CI2;INGENIEUR;2021;Actif;1;23
+STU00962;Kawtar Guedira;F         ;0026-02-24;CI2;INGENIEUR;2021;Actif;1;24
+STU00963;Ikram Bensmail;F         ;0016-08-23;CI2;INGENIEUR;2021;Actif;1;23
+STU00964;Kahina Mabrouki;F         ;0011-09-24;CI2;INGENIEUR;2021;Actif;1;24
+STU00965;Khadija Agadiri;F         ;0029-09-24;CI2;INGENIEUR;2021;Actif;1;23
+STU00966;Yassir Hadifi;M         ;0024-06-25;CI2;INGENIEUR;2021;Actif;1;24
+STU00967;Bilal Semlali;M         ;0027-05-26;CI2;INGENIEUR;2021;Actif;1;23
+STU00968;Massinissa Saqqat;M         ;0030-10-24;CI2;INGENIEUR;2021;Actif;1;24
+STU00969;Hatim Naciri;M         ;0010-04-26;CI2;INGENIEUR;2021;Actif;1;23
+STU00970;Mehdi Bouayad;M         ;0019-07-27;CI2;INGENIEUR;2021;Actif;1;24
+STU00971;Tayri Ben Ahmed;F         ;0015-02-24;CI2;INGENIEUR;2021;Actif;1;23
+STU00972;Majda Ben Tahar;F         ;0028-09-23;CI2;INGENIEUR;2021;Actif;1;24
+STU00973;Tarik Amrani;M         ;0010-04-26;CI2;INGENIEUR;2021;Actif;1;23
+STU00974;Fatna Hassani;F         ;0011-05-26;CI2;INGENIEUR;2021;Actif;1;24
+STU00975;Kenza El Idrissi;F         ;0030-02-24;CI2;INGENIEUR;2021;Actif;1;23
+STU00976;Noureddine El Kadiri;M         ;0021-07-26;CI2;INGENIEUR;2021;Actif;1;24
+STU00977;Ikram Casaoui;M         ;0032-10-23;CI2;INGENIEUR;2021;Actif;1;23
+STU00978;Aylal Daoudi;M         ;0015-12-24;CI2;INGENIEUR;2021;Actif;1;24
+STU00979;Hassan Yacoubi;M         ;0013-01-23;CI2;INGENIEUR;2021;Actif;1;23
+STU00980;Tanirt Maarofi;F         ;0006-06-26;CI2;INGENIEUR;2021;Actif;1;24
+STU00981;Ismail Zitouni;M         ;0022-04-26;CI2;INGENIEUR;2021;Actif;1;23
+STU00982;Hamza Slaoui;M         ;0009-02-23;CI2;INGENIEUR;2021;Actif;1;24
+STU00983;Jamal Tabbakh;M         ;0020-09-23;CI2;INGENIEUR;2021;Actif;1;23
+STU00984;Safae Abdessamad;F         ;0009-06-25;CI2;INGENIEUR;2021;Actif;1;24
+STU00985;Hassan Bouazza;M         ;0031-11-24;CI2;INGENIEUR;2021;Actif;1;23
+STU00986;Houda Jaidi;F         ;0009-07-26;CI2;INGENIEUR;2021;Actif;1;24
+STU00987;Mohamed Ben Salah;M         ;0027-04-26;CI2;INGENIEUR;2021;Actif;1;23
+STU00988;Jugurtha Hafidi;M         ;0026-01-24;CI2;INGENIEUR;2021;Actif;1;24
+STU00989;Nezha El Alami;F         ;0032-11-23;CI2;INGENIEUR;2021;Actif;1;23
+STU00990;Sara El Kadiri;F         ;0018-12-24;CI2;INGENIEUR;2021;Actif;1;24
+STU00991;Soukaina Tahiri;F         ;0034-05-26;CI2;INGENIEUR;2021;Actif;1;23
+STU00992;Fatima-Zahra Amrani;F         ;0032-04-25;CI2;INGENIEUR;2021;Actif;1;24
+STU00993;Ismail Ben Youssef;M         ;0030-05-26;CI2;INGENIEUR;2021;Actif;1;23
+STU00994;Ayoub El Idrissi;M         ;0024-12-23;CI2;INGENIEUR;2021;Actif;1;24
+STU00995;Fatima-Zahra Zerhouni;F         ;0021-04-25;CI2;INGENIEUR;2021;Actif;1;23
+STU00996;Jaouad Zouiten;M         ;0025-11-24;CI2;INGENIEUR;2021;Actif;1;24
+STU00997;Yacine Guedira;M         ;0021-08-24;CI2;INGENIEUR;2021;Actif;1;23
+STU00998;Karima Zeroual;F         ;0008-01-24;CI2;INGENIEUR;2021;Actif;1;24
+STU00999;Hicham Zakkar;M         ;0006-11-24;CI2;INGENIEUR;2021;Actif;1;23
+STU01000;Said Bouhali;M         ;0023-02-24;CI2;INGENIEUR;2021;Actif;1;24
+STU01001;Fayçal Jennane;M         ;0014-05-26;CI2;INGENIEUR;2021;Actif;1;23
+STU01002;Tazerwalt Jennane;F         ;0027-04-26;CI2;INGENIEUR;2021;Actif;1;24
+STU01003;Wafaa Zaidi;F         ;0008-03-25;CI2;INGENIEUR;2021;Actif;1;23
+STU01004;Najib Ait Ali;M         ;0034-02-24;CI2;INGENIEUR;2021;Actif;1;24
+STU01005;Noura Boulaich;F         ;0008-08-23;CI2;INGENIEUR;2021;Actif;1;23
+STU01006;Tamurt Soussi;F         ;0014-11-24;CI2;INGENIEUR;2021;Actif;1;24
+STU01007;Nasir Tetuani;M         ;0027-02-24;CI2;INGENIEUR;2021;Actif;1;23
+STU01008;Asma Znagui;F         ;0008-09-23;CI2;INGENIEUR;2021;Actif;1;24
+STU01009;Ilham Yazidi;F         ;0021-03-25;CI2;INGENIEUR;2021;Actif;1;23
+STU01010;Munir Abdelkarim;M         ;0009-11-24;CI2;INGENIEUR;2021;Actif;1;24
+STU01011;Rayhana Zakkar;F         ;0009-06-25;CI2;INGENIEUR;2021;Actif;1;23
+STU01012;Chaimae Sabri;F         ;0024-02-24;CI2;INGENIEUR;2021;Actif;1;24
+STU01013;Hamza Tijani;M         ;0026-03-26;CI2;INGENIEUR;2021;Actif;1;23
+STU01014;Oumaima Zarouali;F         ;0026-09-24;CI2;INGENIEUR;2021;Actif;1;24
+STU01015;Tissila Semlali;F         ;0032-06-25;CI2;INGENIEUR;2021;Actif;1;23
+STU01016;Idriss Azoulay;M         ;0031-02-24;CI2;INGENIEUR;2021;Actif;1;24
+STU01017;Mouna Zemmouri;F         ;0028-11-23;CI2;INGENIEUR;2021;Actif;1;23
+STU01018;Karima El Mansouri;F         ;0014-04-26;CI2;INGENIEUR;2021;Actif;1;24
+STU01019;Aksil Hajjaj;M         ;0032-04-25;CI2;INGENIEUR;2021;Actif;1;23
+STU01020;Afaf Nejjar;F         ;0028-11-23;CI2;INGENIEUR;2021;Actif;1;24
+STU01021;Hassan Ait Brahim;M         ;0011-01-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01022;Halima Senhaji;F         ;0013-03-25;CI2;INGENIEUR;2021;Actif;2;30
+STU01023;Bilal Lamrani;M         ;0020-09-23;CI2;INGENIEUR;2021;Actif;2;29
+STU01024;Abdellatif Bouhali;M         ;0030-07-27;CI2;INGENIEUR;2021;Actif;2;30
+STU01025;Amina Sabbagh;F         ;0025-04-25;CI2;INGENIEUR;2021;Actif;2;29
+STU01026;Elias Abdellatif;M         ;0028-01-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01027;Munir Benali;M         ;0030-02-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01028;Adil Abderrahim;M         ;0022-03-26;CI2;INGENIEUR;2021;Actif;2;30
+STU01029;Zakariya Zouheir;M         ;0029-08-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01030;Khalid Ouazzani;M         ;0026-04-26;CI2;INGENIEUR;2021;Actif;2;30
+STU01031;Nora Tahiri;F         ;0025-12-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01032;Mounir Hamdaoui;M         ;0015-11-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01033;Aicha Ben Hassan;F         ;0019-08-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01034;Lalla Chorfi;F         ;0034-02-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01035;Mouna Ibrahimi;F         ;0027-02-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01036;Ilyas Tangaoui;M         ;0029-03-25;CI2;INGENIEUR;2021;Actif;2;30
+STU01037;Kaoutar Mazigh;F         ;0011-04-26;CI2;INGENIEUR;2021;Actif;2;29
+STU01038;Nasir Sekkat;M         ;0027-05-26;CI2;INGENIEUR;2021;Actif;2;30
+STU01039;Marwa El Kadiri;F         ;0023-11-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01040;Basma Zitouni;F         ;0029-04-25;CI2;INGENIEUR;2021;Actif;2;30
+STU01041;Joumana Laghzaoui;F         ;0016-02-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01042;Aicha Idrissi;F         ;0010-02-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01043;Massinissa Ben Othman;M         ;0027-06-26;CI2;INGENIEUR;2021;Actif;2;29
+STU01044;Ilyas Chaouani;M         ;0015-08-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01045;Soraya Bennani;F         ;0032-05-25;CI2;INGENIEUR;2021;Actif;2;29
+STU01046;Rim Mabrouki;F         ;0008-02-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01047;Malak Abdellatif;F         ;0025-07-26;CI2;INGENIEUR;2021;Actif;2;29
+STU01048;Anouar Wazzani;M         ;0019-02-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01049;Rachid Tahri;M         ;0016-05-25;CI2;INGENIEUR;2021;Actif;2;29
+STU01050;Massinissa Ouazzani;M         ;0031-12-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01051;Afaf Chakir;F         ;0029-06-25;CI2;INGENIEUR;2021;Actif;2;29
+STU01052;Ines Kabbouri;F         ;0033-01-23;CI2;INGENIEUR;2021;Actif;2;30
+STU01053;Mahdi Daoudi;M         ;0027-05-26;CI2;INGENIEUR;2021;Actif;2;29
+STU01054;Salwa Essaidi;F         ;0030-02-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01055;Faouzi Filali;M         ;0015-09-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01056;Maryam Benslimane;F         ;0011-07-27;CI2;INGENIEUR;2021;Actif;2;30
+STU01057;Abdesselam Moussaoui;M         ;0018-07-27;CI2;INGENIEUR;2021;Actif;2;29
+STU01058;Badr Azergui;M         ;0015-02-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01059;Ayoub Zoulikha;M         ;0006-10-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01060;Loubna Derraz;F         ;0007-08-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01061;Massin Ezzahiri;M         ;0030-06-26;CI2;INGENIEUR;2021;Actif;2;29
+STU01062;Nabila Tijani;F         ;0024-03-25;CI2;INGENIEUR;2021;Actif;2;30
+STU01063;Latifa Tahri;F         ;0017-05-25;CI2;INGENIEUR;2021;Actif;2;29
+STU01064;Zakaria Nejjar;M         ;0031-07-27;CI2;INGENIEUR;2021;Actif;2;30
+STU01065;Anouar Touhami;M         ;0019-02-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01066;Anir Meknassi;M         ;0027-09-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01067;Tanirt Cherif;F         ;0012-10-23;CI2;INGENIEUR;2021;Actif;2;29
+STU01068;Amal Mabrouki;F         ;0007-04-26;CI2;INGENIEUR;2021;Actif;2;30
+STU01069;Said Mazigh;M         ;0014-01-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01070;Hassan Benslimane;M         ;0018-11-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01071;Syphax Senhaji;M         ;0030-02-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01072;Salma Nadir;F         ;0022-11-24;CI2;INGENIEUR;2021;Actif;2;30
+STU01073;Nabila Berrada;F         ;0026-10-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01074;Massin Moussaoui;M         ;0009-07-26;CI2;INGENIEUR;2021;Actif;2;30
+STU01075;Elias Sadiki;M         ;0007-02-24;CI2;INGENIEUR;2021;Actif;2;29
+STU01076;Othmane Balafrej;M         ;0031-04-26;CI2;INGENIEUR;2021;Actif;2;30
+STU01077;Yacine Erraji;M         ;0012-07-26;CI2;INGENIEUR;2021;Actif;2;29
+STU01078;Hasna Znagui;F         ;0029-07-26;CI2;INGENIEUR;2021;Actif;2;30
+STU01079;Omar Abderrahmane;M         ;0017-05-25;CI2;INGENIEUR;2021;Actif;2;29
+STU01080;Hamza Kettani;M         ;0011-06-26;CI2;INGENIEUR;2021;Actif;2;30
+STU01081;Amal Kettani;F         ;0033-03-25;CI2;INGENIEUR;2021;Actif;3;35
+STU01082;Hicham Khalfi;M         ;0020-12-23;CI2;INGENIEUR;2021;Actif;3;36
+STU01083;Ikram Akdim;F         ;0018-06-26;CI2;INGENIEUR;2021;Actif;3;35
+STU01084;Wissam Benali;M         ;0030-04-26;CI2;INGENIEUR;2021;Actif;3;36
+STU01085;Chakib Karim;M         ;0008-03-25;CI2;INGENIEUR;2021;Actif;3;35
+STU01086;Aylal Boutarbouch;M         ;0015-07-27;CI2;INGENIEUR;2021;Actif;3;36
+STU01087;Dalila El Ghali;F         ;0030-10-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01088;Tayri Hamdaoui;F         ;0007-04-26;CI2;INGENIEUR;2021;Actif;3;36
+STU01089;Aya Raissouni;F         ;0010-09-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01090;Zhor Wakrim;F         ;0016-02-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01091;Tarik Belkadi;M         ;0027-05-26;CI2;INGENIEUR;2021;Actif;3;35
+STU01092;Aisha Zahraoui;F         ;0011-02-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01093;Hassan Benali;M         ;0026-03-26;CI2;INGENIEUR;2021;Actif;3;35
+STU01094;Sabah Yacoubi;F         ;0015-07-27;CI2;INGENIEUR;2021;Actif;3;36
+STU01095;Anouar Jaidi;M         ;0018-05-26;CI2;INGENIEUR;2021;Actif;3;35
+STU01096;Salah Wazzani;M         ;0011-02-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01097;Zakaria Meknassi;M         ;0033-03-25;CI2;INGENIEUR;2021;Actif;3;35
+STU01098;Hiba El Kadiri;F         ;0027-08-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01099;Chakib Yacoubi;M         ;0027-01-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01100;Soufiane Balafrej;M         ;0014-07-27;CI2;INGENIEUR;2021;Actif;3;36
+STU01101;Ilyas Filali;M         ;0022-03-26;CI2;INGENIEUR;2021;Actif;3;35
+STU01102;Kahina Ben Moussa;F         ;0027-04-26;CI2;INGENIEUR;2021;Actif;3;36
+STU01103;Tariq Amraoui;M         ;0009-03-25;CI2;INGENIEUR;2021;Actif;3;35
+STU01104;Amazigh Boujemaa;M         ;0017-01-23;CI2;INGENIEUR;2021;Actif;3;36
+STU01105;Leila Zoulikha;F         ;0024-08-23;CI2;INGENIEUR;2021;Actif;3;35
+STU01106;Aicha Akdim;F         ;0011-12-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01107;Amazigh Riffi;M         ;0028-09-23;CI2;INGENIEUR;2021;Actif;3;35
+STU01108;Widad Cherif;F         ;0027-08-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01109;Mina Abdessamad;F         ;0018-01-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01110;Nabila Zahraoui;F         ;0011-07-27;CI2;INGENIEUR;2021;Actif;3;36
+STU01111;Mounir Ben Salah;M         ;0013-02-23;CI2;INGENIEUR;2021;Actif;3;35
+STU01112;Nezha Makkaoui;F         ;0029-07-26;CI2;INGENIEUR;2021;Actif;3;36
+STU01113;Ali Boutaleb;M         ;0007-04-26;CI2;INGENIEUR;2021;Actif;3;35
+STU01114;Soundous Essalhi;F         ;0007-09-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01115;Saida Sekkat;F         ;0027-01-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01116;Badis Lamrani;M         ;0030-09-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01117;Rahma Abdessamad;F         ;0023-02-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01118;Rida Semlali;M         ;0007-02-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01119;Jaouad Bensmail;M         ;0030-08-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01120;Haitham Ait Ali;M         ;0024-08-23;CI2;INGENIEUR;2021;Actif;3;36
+STU01121;Abdesselam Hadifi;M         ;0018-01-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01122;Walid Mountassir;M         ;0014-01-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01123;Hicham Tanjaoui;M         ;0007-09-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01124;Samir Tijani;M         ;0018-11-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01125;Kawtar Berrada;F         ;0026-06-26;CI2;INGENIEUR;2021;Actif;3;35
+STU01126;Halima Daoudi;F         ;0027-02-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01127;Kenza Jaidi;F         ;0024-10-23;CI2;INGENIEUR;2021;Actif;3;35
+STU01128;Massinissa Zakkar;M         ;0017-12-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01129;Samir Zayani;M         ;0013-12-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01130;Kahina Znagui;F         ;0021-11-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01131;Dalila Benali;F         ;0011-02-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01132;Lina Agadiri;F         ;0022-07-27;CI2;INGENIEUR;2021;Actif;3;36
+STU01133;Dounia Ben Slimane;F         ;0011-08-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01134;Dalila Elmalki;F         ;0027-07-27;CI2;INGENIEUR;2021;Actif;3;36
+STU01135;Anouar Zahiri;M         ;0029-11-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01136;Marouane Bargach;M         ;0022-01-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01137;Ghali Ait Ahmed;M         ;0033-04-25;CI2;INGENIEUR;2021;Actif;3;35
+STU01138;Khadija Sahraoui;F         ;0010-06-26;CI2;INGENIEUR;2021;Actif;3;36
+STU01139;Abdelilah Qassimi;M         ;0008-02-24;CI2;INGENIEUR;2021;Actif;3;35
+STU01140;Karim Ait Brahim;M         ;0011-10-24;CI2;INGENIEUR;2021;Actif;3;36
+STU01141;Chadia Zekri;F         ;0007-04-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01142;Naima Slaoui;F         ;0026-01-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01143;Mina Ait Youssef;F         ;0032-09-23;CI2;INGENIEUR;2021;Actif;4;41
+STU01144;Chadia Ben Amor;F         ;0033-03-25;CI2;INGENIEUR;2021;Actif;4;42
+STU01145;Kamal Zemmouri;M         ;0015-02-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01146;Abdelmajid Bensmail;M         ;0020-11-23;CI2;INGENIEUR;2021;Actif;4;42
+STU01147;Hakim Sbihi;M         ;0010-12-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01148;Ali Casaoui;M         ;0034-02-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01149;Hafida Ben Slimane;F         ;0010-03-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01150;Malek Jabbari;M         ;0008-03-25;CI2;INGENIEUR;2021;Actif;4;42
+STU01151;Hamza Bouizgarne;M         ;0011-04-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01152;Faouzi Belkadi;M         ;0020-04-25;CI2;INGENIEUR;2021;Actif;4;42
+STU01153;Tiwizi Berrada;F         ;0023-05-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01154;Laila Yazidi;F         ;0032-01-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01155;Tazerwalt Essaidi;F         ;0031-05-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01156;Badr Ben Hassan;M         ;0021-10-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01157;Rachid Amraoui;M         ;0024-03-25;CI2;INGENIEUR;2021;Actif;4;41
+STU01158;Rajae Ait Lahcen;F         ;0028-06-25;CI2;INGENIEUR;2021;Actif;4;42
+STU01159;Driss Nejjar;M         ;0022-07-27;CI2;INGENIEUR;2021;Actif;4;41
+STU01160;Massinissa Zakkar;M         ;0028-09-23;CI2;INGENIEUR;2021;Actif;4;42
+STU01161;Chaimae Cherif;F         ;0010-07-27;CI2;INGENIEUR;2021;Actif;4;41
+STU01162;Hayat Zoulikha;F         ;0014-10-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01163;Amira Semlali;F         ;0015-03-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01164;Salwa Rbati;F         ;0023-12-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01165;Maryam Tanjaoui;F         ;0024-02-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01166;Rajae Ouzzi;F         ;0018-03-26;CI2;INGENIEUR;2021;Actif;4;42
+STU01167;Rachida Ben Salah;F         ;0010-04-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01168;Haitham Tahri;M         ;0012-05-25;CI2;INGENIEUR;2021;Actif;4;42
+STU01169;Yassir Mahmoudi;M         ;0031-12-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01170;Fatima-Zahra Yacoubi;F         ;0029-03-25;CI2;INGENIEUR;2021;Actif;4;42
+STU01171;Ayoub Ouazzani;M         ;0007-04-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01172;Abderrahim Bouabid;M         ;0020-03-25;CI2;INGENIEUR;2021;Actif;4;42
+STU01173;Amine Doukkali;M         ;0017-09-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01174;Ikram Sabri;M         ;0019-05-26;CI2;INGENIEUR;2021;Actif;4;42
+STU01175;Fadwa Zakkar;F         ;0016-02-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01176;Faouzi Znagui;M         ;0026-08-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01177;Ilham El Amrani;F         ;0033-09-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01178;Hiba Hassani;F         ;0023-03-26;CI2;INGENIEUR;2021;Actif;4;42
+STU01179;Jaouad Ait Youssef;M         ;0008-04-25;CI2;INGENIEUR;2021;Actif;4;41
+STU01180;Manal Zakkar;F         ;0011-06-26;CI2;INGENIEUR;2021;Actif;4;42
+STU01181;Mounir Slaoui;M         ;0017-12-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01182;Asma Essaidi;F         ;0022-09-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01183;Abdesselam Daoudi;M         ;0008-07-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01184;Nawal Zarouali;F         ;0018-03-26;CI2;INGENIEUR;2021;Actif;4;42
+STU01185;Malak Amazigh;F         ;0025-09-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01186;Idriss Rahmouni;M         ;0007-03-26;CI2;INGENIEUR;2021;Actif;4;42
+STU01187;Maryam Khalfi;F         ;0010-02-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01188;Nasir Boutaleb;M         ;0009-11-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01189;Sabah Zemrani;F         ;0015-03-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01190;Tayri Zekri;F         ;0031-01-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01191;Chakib Bouhali;M         ;0028-01-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01192;Btissam Alaoui;F         ;0010-01-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01193;Malika Zouiten;F         ;0032-04-25;CI2;INGENIEUR;2021;Actif;4;41
+STU01194;Taoufik Chorfi;M         ;0031-09-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01195;Chaimae Hajjaj;F         ;0024-02-24;CI2;INGENIEUR;2021;Actif;4;41
+STU01196;Ziad Doukkali;M         ;0015-09-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01197;Saad Bargach;M         ;0033-05-25;CI2;INGENIEUR;2021;Actif;4;41
+STU01198;Latifa Zahraoui;F         ;0021-08-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01199;Kahina Slaoui;F         ;0015-03-26;CI2;INGENIEUR;2021;Actif;4;41
+STU01200;Anouar Benslimane;M         ;0021-09-24;CI2;INGENIEUR;2021;Actif;4;42
+STU01201;Nabil Ibrahimi;M         ;0033-09-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01202;Rim Agadiri;F         ;0032-09-23;CI2;INGENIEUR;2021;Actif;5;48
+STU01203;Kamal Hafidi;M         ;0030-08-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01204;Bilal El Bakali;M         ;0028-04-25;CI2;INGENIEUR;2021;Actif;5;48
+STU01205;Fadwa Benali;F         ;0008-02-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01206;Tiwizi Kabbouri;F         ;0021-11-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01207;Nabila Ait Taleb;F         ;0015-02-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01208;Jihane Mabrouki;F         ;0011-03-26;CI2;INGENIEUR;2021;Actif;5;48
+STU01209;Tahar Wakrim;M         ;0021-12-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01210;Nasir Mazigh;M         ;0033-12-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01211;Idriss Ben Abdelkader;M         ;0023-05-26;CI2;INGENIEUR;2021;Actif;5;47
+STU01212;Tifawt Bouayad;F         ;0006-06-26;CI2;INGENIEUR;2021;Actif;5;48
+STU01213;Massinissa Zouheir;M         ;0016-07-26;CI2;INGENIEUR;2021;Actif;5;47
+STU01214;Fadwa Mesmoudi;F         ;0023-08-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01215;Manal Chaouani;F         ;0026-01-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01216;Dihya Ait Hamou;F         ;0020-01-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01217;Anouar Chorfi;M         ;0017-11-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01218;Widad Abdellatif;F         ;0024-08-23;CI2;INGENIEUR;2021;Actif;5;48
+STU01219;Driss Bensmail;M         ;0032-09-23;CI2;INGENIEUR;2021;Actif;5;47
+STU01220;Abdelmajid Haouzi;M         ;0023-09-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01221;Noura Zouiten;F         ;0010-09-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01222;Malek Zaari;M         ;0011-06-26;CI2;INGENIEUR;2021;Actif;5;48
+STU01223;Nadia Ben Hassan;F         ;0023-04-26;CI2;INGENIEUR;2021;Actif;5;47
+STU01224;Zakiya Boujemaa;F         ;0014-10-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01225;Rida El Fassi;M         ;0012-05-25;CI2;INGENIEUR;2021;Actif;5;47
+STU01226;Yassir Zemrani;M         ;0021-10-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01227;Haitham Karim;M         ;0014-11-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01228;Dihya Zarouali;F         ;0032-02-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01229;Tazerwalt Tazi;F         ;0009-12-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01230;Joumana Hassani;F         ;0024-09-23;CI2;INGENIEUR;2021;Actif;5;48
+STU01231;Faouzi Amraoui;M         ;0016-11-23;CI2;INGENIEUR;2021;Actif;5;47
+STU01232;Yamina Ibrahimi;F         ;0009-01-23;CI2;INGENIEUR;2021;Actif;5;48
+STU01233;Fadwa Bouskour;F         ;0027-01-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01234;Adam Saqqat;M         ;0019-11-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01235;Meryem Kettani;F         ;0011-07-27;CI2;INGENIEUR;2021;Actif;5;47
+STU01236;Laila Akdim;F         ;0026-11-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01237;Marwa Chaouani;F         ;0027-03-26;CI2;INGENIEUR;2021;Actif;5;47
+STU01238;Soukaina Abdelkader;F         ;0029-11-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01239;Chaimae Ait Brahim;F         ;0033-08-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01240;Abdelaziz Guedira;M         ;0027-09-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01241;Rayhana Chorfi;F         ;0009-05-25;CI2;INGENIEUR;2021;Actif;5;47
+STU01242;Adam Hamdaoui;M         ;0009-07-26;CI2;INGENIEUR;2021;Actif;5;48
+STU01243;Malek Yacoubi;M         ;0006-06-26;CI2;INGENIEUR;2021;Actif;5;47
+STU01244;Rania Nafie;F         ;0009-07-26;CI2;INGENIEUR;2021;Actif;5;48
+STU01245;Fatna Ben Tahar;F         ;0026-07-27;CI2;INGENIEUR;2021;Actif;5;47
+STU01246;Siham Agadiri;F         ;0029-09-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01247;Ilham Makkaoui;F         ;0010-08-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01248;Omar Hassani;M         ;0018-04-26;CI2;INGENIEUR;2021;Actif;5;48
+STU01249;Maha Abdesselam;F         ;0015-02-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01250;Rahma Chafik;F         ;0012-02-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01251;Ghizlane Laghzaoui;F         ;0025-04-25;CI2;INGENIEUR;2021;Actif;5;47
+STU01252;Rania Saqqat;F         ;0024-04-25;CI2;INGENIEUR;2021;Actif;5;48
+STU01253;Tazerwalt Bouizgarne;F         ;0014-02-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01254;Fouad Ouzzi;M         ;0019-11-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01255;Wafaa Cherkaoui;F         ;0006-06-26;CI2;INGENIEUR;2021;Actif;5;47
+STU01256;Anir Bouskour;M         ;0024-01-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01257;Zakariya Boukhari;M         ;0016-01-24;CI2;INGENIEUR;2021;Actif;5;47
+STU01258;Elias Abderrahim;M         ;0025-10-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01259;Ahmed Yacoubi;M         ;0012-11-23;CI2;INGENIEUR;2021;Actif;5;47
+STU01260;Amal Abdellah;F         ;0013-12-24;CI2;INGENIEUR;2021;Actif;5;48
+STU01261;Abdellatif Ibrahimi;M         ;0019-04-26;CI2;INGENIEUR;2021;Actif;6;53
+STU01262;Jihane Doukkali;F         ;0019-07-27;CI2;INGENIEUR;2021;Actif;6;54
+STU01263;Samir Nafie;M         ;0032-03-25;CI2;INGENIEUR;2021;Actif;6;53
+STU01264;Imane Yassine;F         ;0024-05-25;CI2;INGENIEUR;2021;Actif;6;54
+STU01265;Chaimae Ait Lahcen;F         ;0011-07-27;CI2;INGENIEUR;2021;Actif;6;53
+STU01266;Soufiane El Omari;M         ;0021-04-25;CI2;INGENIEUR;2021;Actif;6;54
+STU01267;Soukaina Chorfi;F         ;0022-03-26;CI2;INGENIEUR;2021;Actif;6;53
+STU01268;Massin Fassi;M         ;0007-08-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01269;Zakaria El Idrissi;M         ;0014-10-24;CI2;INGENIEUR;2021;Actif;6;53
+STU01270;Abdellatif Abdelali;M         ;0007-05-26;CI2;INGENIEUR;2021;Actif;6;54
+STU01271;Hamza Ben Slimane;M         ;0021-06-25;CI2;INGENIEUR;2021;Actif;6;53
+STU01272;Aksil Amrani;M         ;0031-10-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01273;Tiwizi Abdessamad;F         ;0032-05-25;CI2;INGENIEUR;2021;Actif;6;53
+STU01274;Jugurtha El Bakali;M         ;0007-08-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01275;Yamina Lamrani;F         ;0023-07-27;CI2;INGENIEUR;2021;Actif;6;53
+STU01276;Sara Ait Moulay;F         ;0032-10-23;CI2;INGENIEUR;2021;Actif;6;54
+STU01277;Kenza Idrissi;F         ;0030-07-27;CI2;INGENIEUR;2021;Actif;6;53
+STU01278;Syphax Sbai;M         ;0014-01-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01279;Ilyas Abderrahmane;M         ;0031-05-26;CI2;INGENIEUR;2021;Actif;6;53
+STU01280;Samir Baghdadi;M         ;0021-09-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01281;Kaoutar Imghrane;F         ;0011-11-24;CI2;INGENIEUR;2021;Actif;6;53
+STU01282;Anouar Yacoubi;M         ;0010-02-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01283;Mina Saqqat;F         ;0012-10-23;CI2;INGENIEUR;2021;Actif;6;53
+STU01284;Yasmine Baghdadi;F         ;0009-09-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01285;Mahdi Abdellah;M         ;0006-11-24;CI2;INGENIEUR;2021;Actif;6;53
+STU01286;Mounir Zoulikha;M         ;0018-07-27;CI2;INGENIEUR;2021;Actif;6;54
+STU01287;Mohamed Mansouri;M         ;0032-03-25;CI2;INGENIEUR;2021;Actif;6;53
+STU01288;Leila Ezzahiri;F         ;0017-08-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01289;Farid Ait Ali;M         ;0009-01-23;CI2;INGENIEUR;2021;Actif;6;53
+STU01290;Sanae Makkaoui;F         ;0007-06-26;CI2;INGENIEUR;2021;Actif;6;54
+STU01291;Hasna Ben Tahar;F         ;0024-05-25;CI2;INGENIEUR;2021;Actif;6;53
+STU01292;Abdelaziz Boujemaa;M         ;0016-09-23;CI2;INGENIEUR;2021;Actif;6;54
+STU01293;Aicha Abdelali;F         ;0013-05-25;CI2;INGENIEUR;2021;Actif;6;53
+STU01294;Zakariya Sbihi;M         ;0029-11-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01295;Jamal Mansouri;M         ;0029-01-23;CI2;INGENIEUR;2021;Actif;6;53
+STU01296;Amal Boutaleb;F         ;0029-02-23;CI2;INGENIEUR;2021;Actif;6;54
+STU01297;Hiba Zerhouni;F         ;0023-08-24;CI2;INGENIEUR;2021;Actif;6;53
+STU01298;Tamurt Hadifi;F         ;0015-01-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01299;Amine Rahmani;M         ;0020-08-23;CI2;INGENIEUR;2021;Actif;6;53
+STU01300;Malak Doukkali;F         ;0018-02-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01301;Fatima Sekkat;F         ;0023-04-26;CI2;INGENIEUR;2021;Actif;6;53
+STU01302;Nezha Ait Hamou;F         ;0025-06-25;CI2;INGENIEUR;2021;Actif;6;54
+STU01303;Yamina Kabbouri;F         ;0016-09-23;CI2;INGENIEUR;2021;Actif;6;53
+STU01304;Rafik Sadiki;M         ;0012-12-23;CI2;INGENIEUR;2021;Actif;6;54
+STU01305;Soundous Zahraoui;F         ;0025-08-24;CI2;INGENIEUR;2021;Actif;6;53
+STU01306;Tamurt Khalfi;F         ;0017-04-25;CI2;INGENIEUR;2021;Actif;6;54
+STU01307;Tariq Nejjar;M         ;0009-04-25;CI2;INGENIEUR;2021;Actif;6;53
+STU01308;Abdelaziz Ait Said;M         ;0012-06-25;CI2;INGENIEUR;2021;Actif;6;54
+STU01309;Mourad Ait Moulay;M         ;0007-07-27;CI2;INGENIEUR;2021;Actif;6;53
+STU01310;Houria Boukhari;F         ;0026-02-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01311;Yasmine Semlali;F         ;0025-09-24;CI2;INGENIEUR;2021;Actif;6;53
+STU01312;Mohamed Tangaoui;M         ;0022-04-26;CI2;INGENIEUR;2021;Actif;6;54
+STU01313;Jalil Yazidi;M         ;0008-04-25;CI2;INGENIEUR;2021;Actif;6;53
+STU01314;Amal Karim;F         ;0032-12-23;CI2;INGENIEUR;2021;Actif;6;54
+STU01315;Zhor Derraz;F         ;0032-06-25;CI2;INGENIEUR;2021;Actif;6;53
+STU01316;Rania Mansouri;F         ;0009-05-25;CI2;INGENIEUR;2021;Actif;6;54
+STU01317;Latifa Slaoui;F         ;0010-02-24;CI2;INGENIEUR;2021;Actif;6;53
+STU01318;Abdelmajid Oudghiri;M         ;0019-02-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01319;Anas Ouahabi;M         ;0014-04-26;CI2;INGENIEUR;2021;Actif;6;53
+STU01320;Aziz Laghzaoui;M         ;0020-02-24;CI2;INGENIEUR;2021;Actif;6;54
+STU01321;Elias Saqqat;M         ;0018-03-25;CI3;INGENIEUR;2020;Actif;1;25
+STU01322;Majda Baghdadi;F         ;0009-12-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01323;Zakaria Yacoubi;M         ;0022-12-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01324;Houria Ait Ali;F         ;0026-02-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01325;Kahina Akdim;F         ;0017-02-22;CI3;INGENIEUR;2020;Actif;1;25
+STU01326;Chaimae Nafie;F         ;0020-04-24;CI3;INGENIEUR;2020;Actif;1;26
+STU01327;Dalila Soussi;F         ;0024-03-24;CI3;INGENIEUR;2020;Actif;1;25
+STU01328;Massinissa Ouahbi;M         ;0030-02-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01329;Dihya Abdellatif;F         ;0019-01-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01330;Abdelmajid Hassani;M         ;0025-10-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01331;Samir Ben Hassan;M         ;0006-10-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01332;Jihane Fassi;F         ;0006-11-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01333;Afaf Mahmoudi;F         ;0025-02-22;CI3;INGENIEUR;2020;Actif;1;25
+STU01334;Tariq Sabri;M         ;0018-01-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01335;Abdelilah Doukkali;M         ;0024-11-22;CI3;INGENIEUR;2020;Actif;1;25
+STU01336;Hakim Senhaji;M         ;0008-10-22;CI3;INGENIEUR;2020;Actif;1;26
+STU01337;Amira Slaoui;F         ;0009-05-24;CI3;INGENIEUR;2020;Actif;1;25
+STU01338;Zhor Bouizgarne;F         ;0021-08-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01339;Hatim Tabbakh;M         ;0007-10-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01340;Naima Slaoui;F         ;0030-06-25;CI3;INGENIEUR;2020;Actif;1;26
+STU01341;Tazerwalt Znagui;F         ;0019-12-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01342;Elias Agadiri;M         ;0027-05-25;CI3;INGENIEUR;2020;Actif;1;26
+STU01343;Mahdi Slaoui;M         ;0019-04-25;CI3;INGENIEUR;2020;Actif;1;25
+STU01344;Zakaria Ouahabi;M         ;0016-06-24;CI3;INGENIEUR;2020;Actif;1;26
+STU01345;Massin Boutarbouch;M         ;0014-05-25;CI3;INGENIEUR;2020;Actif;1;25
+STU01346;Mehdi Bargach;M         ;0019-05-25;CI3;INGENIEUR;2020;Actif;1;26
+STU01347;Salwa Ezzahiri;F         ;0023-03-25;CI3;INGENIEUR;2020;Actif;1;25
+STU01348;Walid Abderrahim;M         ;0031-10-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01349;Soraya Ben Youssef;F         ;0008-11-22;CI3;INGENIEUR;2020;Actif;1;25
+STU01350;Aziza Karim;F         ;0023-06-25;CI3;INGENIEUR;2020;Actif;1;26
+STU01351;Safae El Ouardi;F         ;0022-12-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01352;Yamina Chafik;F         ;0030-08-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01353;Marouane Zarouali;M         ;0021-09-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01354;Hayat Zitouni;F         ;0023-09-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01355;Farid Kettani;M         ;0030-10-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01356;Tamurt Bensmail;F         ;0009-03-24;CI3;INGENIEUR;2020;Actif;1;26
+STU01357;Said Zeroual;M         ;0017-12-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01358;Hiba Amzil;F         ;0025-11-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01359;Elias Ouzzi;M         ;0017-08-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01360;Fatna Ben Othman;F         ;0008-01-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01361;Ilyas Bensmail;M         ;0010-11-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01362;Ismail Jaidi;M         ;0013-06-24;CI3;INGENIEUR;2020;Actif;1;26
+STU01363;Noureddine Idrissi;M         ;0028-11-22;CI3;INGENIEUR;2020;Actif;1;25
+STU01364;Zakaria Abdellatif;M         ;0007-01-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01365;Rim Jaidi;F         ;0013-02-22;CI3;INGENIEUR;2020;Actif;1;25
+STU01366;Yahya Nejjar;M         ;0023-10-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01367;Fatna Guedira;F         ;0028-08-22;CI3;INGENIEUR;2020;Actif;1;25
+STU01368;Massinissa Zoulikha;M         ;0023-04-25;CI3;INGENIEUR;2020;Actif;1;26
+STU01369;Jamal Ait Youssef;M         ;0015-06-25;CI3;INGENIEUR;2020;Actif;1;25
+STU01370;Ziad Kabbouri;M         ;0007-10-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01371;Hayat El Amrani;F         ;0018-07-26;CI3;INGENIEUR;2020;Actif;1;25
+STU01372;Houria Zemmouri;F         ;0033-11-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01373;Ali Bouazza;M         ;0019-04-25;CI3;INGENIEUR;2020;Actif;1;25
+STU01374;Massinissa Mahmoudi;M         ;0010-05-25;CI3;INGENIEUR;2020;Actif;1;26
+STU01375;Nabila Ezzahiri;F         ;0009-02-22;CI3;INGENIEUR;2020;Actif;1;25
+STU01376;Ilyas Boutarbouch;M         ;0024-01-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01377;Hassan Riffi;M         ;0016-02-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01378;Nabila Lamrani;F         ;0012-05-24;CI3;INGENIEUR;2020;Actif;1;26
+STU01379;Anir Bensmail;M         ;0017-11-23;CI3;INGENIEUR;2020;Actif;1;25
+STU01380;Manal Boutarbouch;F         ;0031-10-23;CI3;INGENIEUR;2020;Actif;1;26
+STU01381;Larbi Senhaji;M         ;0032-12-22;CI3;INGENIEUR;2020;Actif;2;31
+STU01382;Aziz Azergui;M         ;0010-09-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01383;Aicha Zemmouri;F         ;0008-08-22;CI3;INGENIEUR;2020;Actif;2;31
+STU01384;Rabab Belkadi;F         ;0034-03-25;CI3;INGENIEUR;2020;Actif;2;32
+STU01385;Anouar Soussi;M         ;0011-03-25;CI3;INGENIEUR;2020;Actif;2;31
+STU01386;Siham Harraq;F         ;0020-11-22;CI3;INGENIEUR;2020;Actif;2;32
+STU01387;Othmane Zakkar;M         ;0024-08-22;CI3;INGENIEUR;2020;Actif;2;31
+STU01388;Abdelilah Imghrane;M         ;0029-05-24;CI3;INGENIEUR;2020;Actif;2;32
+STU01389;Fayçal Sbai;M         ;0026-08-23;CI3;INGENIEUR;2020;Actif;2;31
+STU01390;Amazigh Chraibi;M         ;0024-02-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01391;Zakaria Aknin;M         ;0029-08-23;CI3;INGENIEUR;2020;Actif;2;31
+STU01392;Driss Aknin;M         ;0019-12-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01393;Ilham Karim;F         ;0030-04-25;CI3;INGENIEUR;2020;Actif;2;31
+STU01394;Wafaa Slaoui;F         ;0009-09-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01395;Zakaria Benjelloun;M         ;0026-03-25;CI3;INGENIEUR;2020;Actif;2;31
+STU01396;Dalila Zerhouni;F         ;0014-03-25;CI3;INGENIEUR;2020;Actif;2;32
+STU01397;Hakim Bensmail;M         ;0017-06-24;CI3;INGENIEUR;2020;Actif;2;31
+STU01398;Zakariya Slaoui;M         ;0011-01-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01399;Mouna Yassine;F         ;0011-11-23;CI3;INGENIEUR;2020;Actif;2;31
+STU01400;Nabila Boucetta;F         ;0011-08-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01401;Walid Hassani;M         ;0030-12-23;CI3;INGENIEUR;2020;Actif;2;31
+STU01402;Imad Zeroual;M         ;0029-09-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01403;Chakib Rbati;M         ;0011-07-26;CI3;INGENIEUR;2020;Actif;2;31
+STU01404;Fadwa Boukhari;F         ;0017-05-24;CI3;INGENIEUR;2020;Actif;2;32
+STU01405;Nisrine Ghazali;F         ;0030-12-23;CI3;INGENIEUR;2020;Actif;2;31
+STU01406;Ikram Ibrahimi;M         ;0029-12-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01407;Aicha Hazzam;F         ;0025-05-24;CI3;INGENIEUR;2020;Actif;2;31
+STU01408;Samir El Abbadi;M         ;0021-01-22;CI3;INGENIEUR;2020;Actif;2;32
+STU01409;Farid Nadir;M         ;0019-02-23;CI3;INGENIEUR;2020;Actif;2;31
+STU01410;Aziz Ouazzani;M         ;0031-02-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01411;Anas Bouazza;M         ;0019-01-23;CI3;INGENIEUR;2020;Actif;2;31
+STU01412;Yamina Bouskour;F         ;0012-01-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01413;Hanane Hazzam;F         ;0028-06-24;CI3;INGENIEUR;2020;Actif;2;31
+STU01414;Jalil Wazzani;M         ;0009-01-22;CI3;INGENIEUR;2020;Actif;2;32
+STU01415;Zakaria Slaoui;M         ;0029-03-24;CI3;INGENIEUR;2020;Actif;2;31
+STU01416;Rida Zeroual;M         ;0020-11-22;CI3;INGENIEUR;2020;Actif;2;32
+STU01417;Rayan Abdelmajid;M         ;0029-03-24;CI3;INGENIEUR;2020;Actif;2;31
+STU01418;Idriss El Alami;M         ;0016-10-22;CI3;INGENIEUR;2020;Actif;2;32
+STU01419;Abdellatif Hadifi;M         ;0008-07-25;CI3;INGENIEUR;2020;Actif;2;31
+STU01420;Abdelkader Abdellatif;M         ;0018-04-25;CI3;INGENIEUR;2020;Actif;2;32
+STU01421;Tahar Derraz;M         ;0029-12-23;CI3;INGENIEUR;2020;Actif;2;31
+STU01422;Massinissa Yacoubi;M         ;0007-12-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01423;Jugurtha Zekri;M         ;0034-04-25;CI3;INGENIEUR;2020;Actif;2;31
+STU01424;Ayoub Ben Othman;M         ;0030-08-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01425;Anouar Ouzzi;M         ;0029-10-23;CI3;INGENIEUR;2020;Actif;2;31
+STU01426;Imane Makkaoui;F         ;0009-08-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01427;Ilyas Alami;M         ;0031-03-25;CI3;INGENIEUR;2020;Actif;2;31
+STU01428;Aisha Abderrahmane;F         ;0034-01-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01429;Saida Zaari;F         ;0025-06-24;CI3;INGENIEUR;2020;Actif;2;31
+STU01430;Manal Slaoui;F         ;0028-03-24;CI3;INGENIEUR;2020;Actif;2;32
+STU01431;Kawtar Khalfi;F         ;0009-01-22;CI3;INGENIEUR;2020;Actif;2;31
+STU01432;Farid Yacoubi;M         ;0025-10-23;CI3;INGENIEUR;2020;Actif;2;32
+STU01433;Mehdi Ait Hamou;M         ;0007-08-23;CI3;INGENIEUR;2020;Actif;2;31
+STU01434;Nour Ben Othman;F         ;0027-06-25;CI3;INGENIEUR;2020;Actif;2;32
+STU01435;Tanirt El Ghali;F         ;0009-06-24;CI3;INGENIEUR;2020;Actif;2;31
+STU01436;Maryam Ait Ahmed;F         ;0016-04-24;CI3;INGENIEUR;2020;Actif;2;32
+STU01437;Idriss Laghzaoui;M         ;0018-03-25;CI3;INGENIEUR;2020;Actif;2;31
+STU01438;Hamza Ouahbi;M         ;0016-10-22;CI3;INGENIEUR;2020;Actif;2;32
+STU01439;Tayri Znagui;F         ;0030-07-26;CI3;INGENIEUR;2020;Actif;2;31
+STU01440;Lalla Yacoubi;F         ;0015-07-26;CI3;INGENIEUR;2020;Actif;2;32
+STU01441;Rahma Ben Ahmed;F         ;0034-05-25;CI3;INGENIEUR;2020;Actif;3;37
+STU01442;Tanirt Ouahabi;F         ;0022-12-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01443;Ziad Tangaoui;M         ;0008-03-24;CI3;INGENIEUR;2020;Actif;3;37
+STU01444;Driss Guedira;M         ;0023-04-25;CI3;INGENIEUR;2020;Actif;3;38
+STU01445;Marouane Filali;M         ;0026-05-25;CI3;INGENIEUR;2020;Actif;3;37
+STU01446;Houda Hassani;F         ;0014-11-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01447;Najat Jabbari;F         ;0022-03-25;CI3;INGENIEUR;2020;Actif;3;37
+STU01448;Nadia Zaari;F         ;0025-08-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01449;Abdelkader Bouazza;M         ;0006-09-23;CI3;INGENIEUR;2020;Actif;3;37
+STU01450;Omar Abdesselam;M         ;0032-04-24;CI3;INGENIEUR;2020;Actif;3;38
+STU01451;Abdesselam Tangaoui;M         ;0020-03-24;CI3;INGENIEUR;2020;Actif;3;37
+STU01452;Amina Benabdallah;F         ;0023-11-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01453;Mohamed Saqqat;M         ;0028-09-22;CI3;INGENIEUR;2020;Actif;3;37
+STU01454;Rajae Tijani;F         ;0015-07-26;CI3;INGENIEUR;2020;Actif;3;38
+STU01455;Nora Yacoubi;F         ;0030-11-23;CI3;INGENIEUR;2020;Actif;3;37
+STU01456;Ismail Bensmail;M         ;0016-11-22;CI3;INGENIEUR;2020;Actif;3;38
+STU01457;Nawal Zerhouni;F         ;0007-03-25;CI3;INGENIEUR;2020;Actif;3;37
+STU01458;Anas Azoulay;M         ;0027-11-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01459;Maha Wakrim;F         ;0026-06-25;CI3;INGENIEUR;2020;Actif;3;37
+STU01460;Marouane Ben Tahar;M         ;0021-04-24;CI3;INGENIEUR;2020;Actif;3;38
+STU01461;Loubna Tahri;F         ;0029-12-23;CI3;INGENIEUR;2020;Actif;3;37
+STU01462;Samir Boukhris;M         ;0030-03-25;CI3;INGENIEUR;2020;Actif;3;38
+STU01463;Amal Sadiki;F         ;0012-06-24;CI3;INGENIEUR;2020;Actif;3;37
+STU01464;Fatima-Zahra Tourabi;F         ;0008-11-22;CI3;INGENIEUR;2020;Actif;3;38
+STU01465;Mounir Alaoui;M         ;0018-11-23;CI3;INGENIEUR;2020;Actif;3;37
+STU01466;Driss Hassani;M         ;0011-12-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01467;Chakib Ouzzi;M         ;0034-05-25;CI3;INGENIEUR;2020;Actif;3;37
+STU01468;Marwa Hassani;F         ;0019-10-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01469;Munir Maarofi;M         ;0020-11-22;CI3;INGENIEUR;2020;Actif;3;37
+STU01470;Dounia Ouahabi;F         ;0011-10-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01471;Dihya Tahri;M         ;0030-06-25;CI3;INGENIEUR;2020;Actif;3;37
+STU01472;Hamza Abdelkader;M         ;0007-02-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01473;Nora Ben Tahar;F         ;0016-09-22;CI3;INGENIEUR;2020;Actif;3;37
+STU01474;Nezha Ouahabi;F         ;0030-10-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01475;Soraya Ouahbi;F         ;0032-07-25;CI3;INGENIEUR;2020;Actif;3;37
+STU01476;Othmane Filali;M         ;0020-06-24;CI3;INGENIEUR;2020;Actif;3;38
+STU01477;Mouna Nejjar;F         ;0006-07-26;CI3;INGENIEUR;2020;Actif;3;37
+STU01478;Amina Bensmail;F         ;0034-03-25;CI3;INGENIEUR;2020;Actif;3;38
+STU01479;Jugurtha Abdesselam;M         ;0009-06-24;CI3;INGENIEUR;2020;Actif;3;37
+STU01480;Khadija Zouaoui;F         ;0026-10-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01481;Massin Casaoui;M         ;0015-09-23;CI3;INGENIEUR;2020;Actif;3;37
+STU01482;Sabah Aknin;F         ;0028-01-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01483;Imad Ben Slimane;M         ;0014-08-23;CI3;INGENIEUR;2020;Actif;3;37
+STU01484;Mohamed Labbadi;M         ;0023-02-23;CI3;INGENIEUR;2020;Actif;3;38
+STU01485;Othmane Sekkat;M         ;0023-11-23;CI3;INGENIEUR;2020;Actif;3;37
+STU01486;Soukaina Ben Amor;F         ;0032-05-24;CI3;INGENIEUR;2020;Actif;3;38
+STU01487;Aziza Sahraoui;F         ;0008-08-22;CI3;INGENIEUR;2020;Actif;3;37
+STU01488;Fadwa Bouhali;F         ;0021-02-22;CI3;INGENIEUR;2020;Actif;3;38
+STU01489;Abdelaziz Alaoui;M         ;0028-01-23;CI3;INGENIEUR;2020;Actif;3;37
+STU01490;Khalid Tahiri;M         ;0008-06-24;CI3;INGENIEUR;2020;Actif;3;38
+STU01491;Aicha Ait Said;F         ;0026-05-25;CI3;INGENIEUR;2020;Actif;3;37
+STU01492;Fadwa Hafidi;F         ;0016-10-22;CI3;INGENIEUR;2020;Actif;3;38
+STU01493;Abdellatif Mountassir;M         ;0032-04-24;CI3;INGENIEUR;2020;Actif;3;37
+STU01494;Chakib Nafie;M         ;0025-01-22;CI3;INGENIEUR;2020;Actif;3;38
+STU01495;Hamza Zemrani;M         ;0021-05-24;CI3;INGENIEUR;2020;Actif;3;37
+STU01496;Idriss Imghrane;M         ;0027-04-25;CI3;INGENIEUR;2020;Actif;3;38
+STU01497;Maha Oudghiri;F         ;0010-09-23;CI3;INGENIEUR;2020;Actif;3;37
+STU01498;Dihya Lamrani;F         ;0028-08-22;CI3;INGENIEUR;2020;Actif;3;38
+STU01499;Zakiya Atiki;F         ;0022-01-23;CI3;INGENIEUR;2020;Actif;3;37
+STU01500;Amine Boucetta;M         ;0017-07-25;CI3;INGENIEUR;2020;Actif;3;38
+STU01501;Loubna Ait Youssef;F         ;0030-10-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01502;Dalila Zouaoui;F         ;0022-08-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01503;Saad Znagui;M         ;0032-05-24;CI3;INGENIEUR;2020;Actif;4;43
+STU01504;Massin Zaidi;M         ;0009-04-24;CI3;INGENIEUR;2020;Actif;4;44
+STU01505;Sabah Abdessamad;F         ;0024-12-22;CI3;INGENIEUR;2020;Actif;4;43
+STU01506;Manal Kabbouri;F         ;0023-09-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01507;Marouane Tahiri;M         ;0016-07-25;CI3;INGENIEUR;2020;Actif;4;43
+STU01508;Zakariya Essalhi;M         ;0031-12-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01509;Amira Tami;F         ;0023-11-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01510;Rayan Jennane;M         ;0009-04-24;CI3;INGENIEUR;2020;Actif;4;44
+STU01511;Karima Essalhi;F         ;0021-03-24;CI3;INGENIEUR;2020;Actif;4;43
+STU01512;Amal El Mansouri;F         ;0012-01-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01513;Asma Chraibi;F         ;0010-03-25;CI3;INGENIEUR;2020;Actif;4;43
+STU01514;Tamurt Boulaich;F         ;0028-04-24;CI3;INGENIEUR;2020;Actif;4;44
+STU01515;Hamza Slaoui;M         ;0024-08-22;CI3;INGENIEUR;2020;Actif;4;43
+STU01516;Chakib Ben Othman;M         ;0011-04-25;CI3;INGENIEUR;2020;Actif;4;44
+STU01517;Sabah Bouazza;F         ;0025-12-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01518;Ines Rbati;F         ;0017-04-24;CI3;INGENIEUR;2020;Actif;4;44
+STU01519;Amira Tourabi;F         ;0016-04-24;CI3;INGENIEUR;2020;Actif;4;43
+STU01520;Mouna Mazigh;F         ;0024-07-25;CI3;INGENIEUR;2020;Actif;4;44
+STU01521;Jaouad Mahmoudi;M         ;0033-12-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01522;Soufiane Bennani;M         ;0023-11-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01523;Ahmed Daoudi;M         ;0033-02-22;CI3;INGENIEUR;2020;Actif;4;43
+STU01524;Karima Amraoui;F         ;0013-06-24;CI3;INGENIEUR;2020;Actif;4;44
+STU01525;Majda Essalhi;F         ;0026-12-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01526;Mouna Zouiten;F         ;0018-12-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01527;Saida Fassi;F         ;0012-04-24;CI3;INGENIEUR;2020;Actif;4;43
+STU01528;Rahma Ait Lahcen;F         ;0019-02-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01529;Lalla Bennani;F         ;0015-08-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01530;Abdelilah El Amrani;M         ;0026-07-26;CI3;INGENIEUR;2020;Actif;4;44
+STU01531;Abderrahim Ennibi;M         ;0028-01-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01532;Rahma El Ouardi;F         ;0026-08-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01533;Kawtar Tami;F         ;0026-05-25;CI3;INGENIEUR;2020;Actif;4;43
+STU01534;Fatna Ait Taleb;F         ;0023-01-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01535;Afaf Znagui;F         ;0019-01-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01536;Jihane Ait Hamou;F         ;0025-12-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01537;Driss Boussaidi;M         ;0014-05-25;CI3;INGENIEUR;2020;Actif;4;43
+STU01538;Chaimae Touhami;F         ;0018-03-25;CI3;INGENIEUR;2020;Actif;4;44
+STU01539;Youssef Zerhouni;M         ;0029-01-22;CI3;INGENIEUR;2020;Actif;4;43
+STU01540;Karima Zouheir;F         ;0029-01-22;CI3;INGENIEUR;2020;Actif;4;44
+STU01541;Abderrahim Guedira;M         ;0023-05-25;CI3;INGENIEUR;2020;Actif;4;43
+STU01542;Loubna Nadir;F         ;0022-07-26;CI3;INGENIEUR;2020;Actif;4;44
+STU01543;Farid Bouabid;M         ;0030-04-25;CI3;INGENIEUR;2020;Actif;4;43
+STU01544;Yacine Sabbagh;M         ;0032-02-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01545;Fadwa Chakir;F         ;0023-11-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01546;Malek Abdelmajid;M         ;0022-02-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01547;Hafsa Hajjaj;F         ;0015-10-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01548;Youssef Boufous;M         ;0030-03-25;CI3;INGENIEUR;2020;Actif;4;44
+STU01549;Nezha Tahri;F         ;0015-03-25;CI3;INGENIEUR;2020;Actif;4;43
+STU01550;Larbi Boucetta;M         ;0012-03-24;CI3;INGENIEUR;2020;Actif;4;44
+STU01551;Rafik Bouazza;M         ;0026-05-25;CI3;INGENIEUR;2020;Actif;4;43
+STU01552;Noureddine Boujemaa;M         ;0010-07-26;CI3;INGENIEUR;2020;Actif;4;44
+STU01553;Mounir Zayani;M         ;0025-08-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01554;Widad Senhaji;F         ;0029-06-24;CI3;INGENIEUR;2020;Actif;4;44
+STU01555;Ikram Ait Omar;M         ;0030-03-25;CI3;INGENIEUR;2020;Actif;4;43
+STU01556;Rafik Abdelkarim;M         ;0031-11-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01557;Hicham Tahri;M         ;0014-05-25;CI3;INGENIEUR;2020;Actif;4;43
+STU01558;Sara Wakrim;F         ;0034-02-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01559;Aksil El Ouardi;M         ;0025-08-23;CI3;INGENIEUR;2020;Actif;4;43
+STU01560;Munir Mabrouki;M         ;0030-12-23;CI3;INGENIEUR;2020;Actif;4;44
+STU01561;Manal Jennane;F         ;0030-01-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01562;Othmane Zouaoui;M         ;0033-05-24;CI3;INGENIEUR;2020;Actif;5;50
+STU01563;Yasmine Tabbakh;F         ;0030-10-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01564;Mehdi Ait Brahim;M         ;0019-01-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01565;Ghita Boucetta;F         ;0031-05-25;CI3;INGENIEUR;2020;Actif;5;49
+STU01566;Massinissa Benslimane;M         ;0019-05-25;CI3;INGENIEUR;2020;Actif;5;50
+STU01567;Safae Ben Othman;F         ;0034-02-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01568;Aisha Bouskour;F         ;0019-01-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01569;Rania Benslimane;F         ;0009-06-24;CI3;INGENIEUR;2020;Actif;5;49
+STU01570;Meryem Abderrahim;F         ;0027-03-25;CI3;INGENIEUR;2020;Actif;5;50
+STU01571;Tanirt Haouzi;F         ;0031-10-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01572;Jamal Zakkar;M         ;0019-03-25;CI3;INGENIEUR;2020;Actif;5;50
+STU01573;Soundous Bargach;F         ;0014-05-25;CI3;INGENIEUR;2020;Actif;5;49
+STU01574;Samir Bouhali;M         ;0029-04-24;CI3;INGENIEUR;2020;Actif;5;50
+STU01575;Amazigh Yacoubi;M         ;0027-06-25;CI3;INGENIEUR;2020;Actif;5;49
+STU01576;Amine Idrissi;M         ;0009-12-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01577;Yacine Abdelkarim;M         ;0013-11-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01578;Rajae Ait Moulay;F         ;0006-06-25;CI3;INGENIEUR;2020;Actif;5;50
+STU01579;Karim Ezzahiri;M         ;0033-04-24;CI3;INGENIEUR;2020;Actif;5;49
+STU01580;Hatim Saqqat;M         ;0028-07-25;CI3;INGENIEUR;2020;Actif;5;50
+STU01581;Hamza Harraq;M         ;0018-08-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01582;Ismail Chafik;M         ;0014-08-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01583;Loubna Jennane;F         ;0026-07-26;CI3;INGENIEUR;2020;Actif;5;49
+STU01584;Widad Ouahbi;F         ;0028-12-22;CI3;INGENIEUR;2020;Actif;5;50
+STU01585;Rajae Ait Ahmed;F         ;0014-07-26;CI3;INGENIEUR;2020;Actif;5;49
+STU01586;Massinissa Ouazzani;M         ;0007-11-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01587;Malak Doukkali;F         ;0020-08-22;CI3;INGENIEUR;2020;Actif;5;49
+STU01588;Mourad Casaoui;M         ;0019-03-25;CI3;INGENIEUR;2020;Actif;5;50
+STU01589;Najib Boukhari;M         ;0010-07-26;CI3;INGENIEUR;2020;Actif;5;49
+STU01590;Dounia Jabbari;F         ;0010-04-25;CI3;INGENIEUR;2020;Actif;5;50
+STU01591;Mouna Mesmoudi;F         ;0007-07-26;CI3;INGENIEUR;2020;Actif;5;49
+STU01592;Samir Zitouni;M         ;0015-05-25;CI3;INGENIEUR;2020;Actif;5;50
+STU01593;Khadija Boussaidi;F         ;0026-08-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01594;Youssef Baghdadi;M         ;0014-12-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01595;Ziad Azoulay;M         ;0024-12-22;CI3;INGENIEUR;2020;Actif;5;49
+STU01596;Rachid Derraz;M         ;0022-01-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01597;Asma Guedira;F         ;0023-07-26;CI3;INGENIEUR;2020;Actif;5;49
+STU01598;Ahmed Tahiri;M         ;0033-05-24;CI3;INGENIEUR;2020;Actif;5;50
+STU01599;Meriem Zerhouni;F         ;0018-02-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01600;Kaoutar Cherkaoui;F         ;0007-12-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01601;Badis Raissouni;M         ;0008-11-22;CI3;INGENIEUR;2020;Actif;5;49
+STU01602;Sanae Ouahbi;F         ;0026-10-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01603;Rayan Zahraoui;M         ;0018-06-25;CI3;INGENIEUR;2020;Actif;5;49
+STU01604;Tarik Chafik;M         ;0009-12-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01605;Nabila El Ouardi;F         ;0021-04-24;CI3;INGENIEUR;2020;Actif;5;49
+STU01606;Abdelilah Sabri;M         ;0006-09-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01607;Mourad Ouazzani;M         ;0031-07-26;CI3;INGENIEUR;2020;Actif;5;49
+STU01608;Nadia Raissouni;F         ;0007-01-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01609;Aksil Rami;M         ;0031-11-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01610;Saad Ben Abdelkader;M         ;0031-09-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01611;Joumana Sadiki;F         ;0029-08-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01612;Samir Sabri;M         ;0011-05-25;CI3;INGENIEUR;2020;Actif;5;50
+STU01613;Hayat Fassi;F         ;0026-01-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01614;Farid Chorfi;M         ;0011-04-25;CI3;INGENIEUR;2020;Actif;5;50
+STU01615;Rayan Qassimi;M         ;0015-06-25;CI3;INGENIEUR;2020;Actif;5;49
+STU01616;Idriss Hazzam;M         ;0032-08-22;CI3;INGENIEUR;2020;Actif;5;50
+STU01617;Khalid El Kadiri;M         ;0026-01-23;CI3;INGENIEUR;2020;Actif;5;49
+STU01618;Amine Yazidi;M         ;0019-09-23;CI3;INGENIEUR;2020;Actif;5;50
+STU01619;Aicha Ibrahimi;F         ;0019-04-25;CI3;INGENIEUR;2020;Actif;5;49
+STU01620;Meriem Bensmail;F         ;0024-03-24;CI3;INGENIEUR;2020;Actif;5;50
+STU01621;Massin Tourabi;M         ;0030-09-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01622;Ghali Ait Omar;M         ;0008-11-22;CI3;INGENIEUR;2020;Actif;6;56
+STU01623;Mounir Ben Amor;M         ;0011-12-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01624;Afaf Ait Brahim;F         ;0014-01-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01625;Abdelilah El Fassi;M         ;0026-04-25;CI3;INGENIEUR;2020;Actif;6;55
+STU01626;Yamina Ait Ali;F         ;0021-06-24;CI3;INGENIEUR;2020;Actif;6;56
+STU01627;Ahmed Benali;M         ;0008-08-22;CI3;INGENIEUR;2020;Actif;6;55
+STU01628;Hafsa Boufous;F         ;0029-01-22;CI3;INGENIEUR;2020;Actif;6;56
+STU01629;Othmane Ben Amor;M         ;0015-04-25;CI3;INGENIEUR;2020;Actif;6;55
+STU01630;Chaimae Soussi;F         ;0025-08-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01631;Hatim Ait Taleb;M         ;0022-05-25;CI3;INGENIEUR;2020;Actif;6;55
+STU01632;Larbi Tahri;M         ;0017-10-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01633;Fatima Zaidi;F         ;0012-09-22;CI3;INGENIEUR;2020;Actif;6;55
+STU01634;Tahar El Mansouri;M         ;0018-03-25;CI3;INGENIEUR;2020;Actif;6;56
+STU01635;Jalil Sbai;M         ;0028-04-24;CI3;INGENIEUR;2020;Actif;6;55
+STU01636;Mounir Chakir;M         ;0009-09-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01637;Yacine Boucetta;M         ;0012-01-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01638;Said Berrada;M         ;0026-06-25;CI3;INGENIEUR;2020;Actif;6;56
+STU01639;Imane Tangaoui;F         ;0014-12-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01640;Fadwa Zaari;F         ;0008-01-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01641;Abdesselam Chakir;M         ;0012-02-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01642;Omar Boujemaa;M         ;0010-02-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01643;Nabil Ennibi;M         ;0025-01-22;CI3;INGENIEUR;2020;Actif;6;55
+STU01644;Hafsa Marrakchi;F         ;0028-05-24;CI3;INGENIEUR;2020;Actif;6;56
+STU01645;Laila Slaoui;F         ;0016-07-25;CI3;INGENIEUR;2020;Actif;6;55
+STU01646;Tariq Maarofi;M         ;0020-05-24;CI3;INGENIEUR;2020;Actif;6;56
+STU01647;Massinissa Meknassi;M         ;0021-07-25;CI3;INGENIEUR;2020;Actif;6;55
+STU01648;Yasmine Abdellah;F         ;0012-08-22;CI3;INGENIEUR;2020;Actif;6;56
+STU01649;Maryam Ouazzani;F         ;0010-11-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01650;Nawal Ait Moulay;F         ;0018-04-25;CI3;INGENIEUR;2020;Actif;6;56
+STU01651;Ines Benabdallah;F         ;0007-08-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01652;Mounir Ben Hassan;M         ;0033-07-25;CI3;INGENIEUR;2020;Actif;6;56
+STU01653;Kawtar Amrani;F         ;0030-08-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01654;Jihane Boutaleb;F         ;0012-03-24;CI3;INGENIEUR;2020;Actif;6;56
+STU01655;Driss Zahraoui;M         ;0008-09-22;CI3;INGENIEUR;2020;Actif;6;55
+STU01656;Noura Nejjar;F         ;0034-01-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01657;Ghali Boucetta;M         ;0015-01-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01658;Abderrahmane Ghazali;M         ;0034-05-25;CI3;INGENIEUR;2020;Actif;6;56
+STU01659;Farid Atiki;M         ;0024-12-22;CI3;INGENIEUR;2020;Actif;6;55
+STU01660;Ghali Ben Slimane;M         ;0007-03-25;CI3;INGENIEUR;2020;Actif;6;56
+STU01661;Amina Mansouri;F         ;0030-01-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01662;Badr Rahmani;M         ;0021-12-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01663;Haitham Boulaich;M         ;0008-09-22;CI3;INGENIEUR;2020;Actif;6;55
+STU01664;Zakariya Hadifi;M         ;0012-12-22;CI3;INGENIEUR;2020;Actif;6;56
+STU01665;Aylal Boutaleb;M         ;0026-09-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01666;Ali Boudinar;M         ;0016-04-24;CI3;INGENIEUR;2020;Actif;6;56
+STU01667;Abdelkader Abderrahmane;M         ;0030-03-25;CI3;INGENIEUR;2020;Actif;6;55
+STU01668;Idriss Abdessamad;M         ;0033-08-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01669;Sara Tijani;F         ;0026-11-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01670;Marwa Sabbagh;F         ;0033-06-24;CI3;INGENIEUR;2020;Actif;6;56
+STU01671;Syphax Bouayad;M         ;0022-11-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01672;Soufiane Ghazali;M         ;0028-10-22;CI3;INGENIEUR;2020;Actif;6;56
+STU01673;Yacine El Bakali;M         ;0017-03-24;CI3;INGENIEUR;2020;Actif;6;55
+STU01674;Rachid Bargach;M         ;0007-11-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01675;Syphax Semlali;M         ;0026-01-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01676;Badis Semlali;M         ;0026-08-23;CI3;INGENIEUR;2020;Actif;6;56
+STU01677;Aziz Derraz;M         ;0010-09-23;CI3;INGENIEUR;2020;Actif;6;55
+STU01678;Manal Sekkat;F         ;0026-07-26;CI3;INGENIEUR;2020;Actif;6;56
+STU01679;Rachida Mabrouki;F         ;0034-03-25;CI3;INGENIEUR;2020;Actif;6;55
+STU01680;Chakib Karim;M         ;0016-09-22;CI3;INGENIEUR;2020;Actif;6;56

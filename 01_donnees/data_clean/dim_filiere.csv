@@ -1,0 +1,9 @@
+﻿filiere_id,filiere_code,filiere_nom,date_creation
+1,GINF,Génie Informatique,1999-10-01
+2,GIL,Génie Industriel & Logistique,1998-10-01
+3,GSEA,Génie des Systèmes Électroniques & Automatiques,2002-10-01
+4,GSTR,Génie des Systèmes de Télécommunications & Réseaux,1999-10-01
+5,GCYS,Génie Cybersécurité,2023-10-01
+6,G3EI,Génie Eco-Énergétique et Environnement Industriel,2011-10-01
+7,AP1,Année Préparatoire 1,1998-09-01
+8,AP2,Année Préparatoire 2,1998-09-01
