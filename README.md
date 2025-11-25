@@ -81,9 +81,7 @@ Nous avons construit un modèle orienté performance avec une séparation claire
 
 👉 **Capture du modèle Power BI** (à ajouter ici)
 
-```markdown
 ![Schéma en étoile du modèle](./03_documentation/schema_modele.png)
-```
 
 ---
 
